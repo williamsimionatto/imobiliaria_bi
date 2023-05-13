@@ -1,0 +1,1001 @@
+﻿id;price;address;neighborhood/city;rooms;garage;bathroom;square_meter;type;suite;gym;balcony;hall;transaction_type;lat;long
+601247;4200000;Alameda Fernão Cardim; Jardim Paulista;3;3;5;277;2;0;0;0;0;Venda;-23.5688157;-46.6533005
+379950;850000;Avenida Dom Bosco; Parque Tamandaré;3;3;3;150;2;1;0;1;0;Venda;-21.7595909;-41.3385061
+531824;3250000;Rua Presidente Alfonso López; Lagoa;3;2;9;220;2;1;0;0;0;Venda;;
+932884;85000;Rua H; Parque D Pedro;3;1;2;95;6;1;0;0;0;Venda;-3.9061294;-38.5120618
+129261;219500;Centro; Barra dos Coqueiros;1;0;1;300;8;0;0;0;0;Venda;-10.9067714;-37.034182
+646245;65000;Largo da Valéria; Valéria;3;1;1;90;6;0;0;0;0;Venda;;
+339120;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Venda;;
+91388;60000;Avenida Engenheiro David Monteiro Lino; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+475855;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Venda;-23.1824754;-46.398502
+28431;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+185927;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Venda;;
+231496;495000;Rua José de Paula; Centro;3;2;3;146;7;0;0;0;0;Venda;-22.3520066;-47.3774423
+436624;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+54176;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+177279;49900;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;0;Venda;-9.7160207;-35.8927564
+290209;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+196161;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+515727;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+206557;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+569430;29900;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3909975;-46.326398
+678202;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+937982;22000;Estrada do Ouro Fino; Centro;1;0;1;500;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+979018;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+69183;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Venda;;
+622666;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1;Venda;-9.7160207;-35.8927564
+326660;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3899331;-46.3247545
+443435;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+54984;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+632706;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+867119;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+106122;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Venda;;
+661388;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+180691;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+994487;25000;Rua José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+256320;385000;Avenida Marechal Hermes da Fonseca; Bessa;3;1;2;71;2;1;0;1;0;Venda;-7.0725547;-34.8453149
+773668;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+750840;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+864803;29900;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+963847;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+321901;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+704073;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+780083;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+93798;198000;Rua Bancário Sérgio Guerra; Anatólia;2;1;1;76;2;1;0;1;0;Venda;-7.1501925;-34.840813
+223859;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Venda;;
+610213;55000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;1;Venda;;
+778663;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+211219;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Venda;;
+257572;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+219808;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+816958;399900;Rua Doutor José Maria; Encruzilhada;2;1;2;58;2;1;1;0;0;Venda;-8.0367258;-34.8946215
+852872;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+896369;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+852342;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+31661;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+454216;60000;Rua Alfredo Schurig; Centro;1;0;1;600;8;0;0;0;1;Venda;-23.3056894;-45.9692904
+726012;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+922526;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+310606;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+196112;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+74175;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+314309;45000;Centro; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;-23.20691;-46.154389
+984503;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Venda;-23.1824754;-46.398502
+179774;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+862574;365000;Rua Leandro Barreto; Jardim São Paulo;3;1;1;58;2;1;1;0;1;Venda;-8.0802479;-34.941745
+956796;424000;Rua Guido Rossini Neto; Jardim Roseira;3;2;2;130;6;1;0;0;0;Venda;;
+917531;678000;Rua João Tibiriçá; Lapa;2;1;2;55;2;1;0;0;0;Venda;-23.5218211;-46.7169631
+444005;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+178753;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Venda;-22.9557202;-46.5369853
+555374;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+34782;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+176299;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+161360;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+255367;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+320198;90000;Rua Francisco Monteoliva Lopes; Lagoa;1;0;1;500;8;0;0;0;0;Venda;;
+621232;45000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+952628;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+861516;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0;Venda;;
+534465;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Venda;-22.9557202;-46.5369853
+208840;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Venda;;
+98146;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1;Venda;;
+84319;49999;Avenida Antonio de Oliveira; Rio Acima;1;0;1;1000;8;0;0;0;0;Venda;;
+905378;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+91142;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+862545;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+11138;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+288297;150000;Parque Alpina; Igaratá;1;0;1;300;9;0;0;0;0;Venda;;
+805732;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+121398;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0;Venda;;
+773970;410010;Avenida Augusto Franco; Getúlio Vargas;3;1;2;78;2;0;0;0;0;Venda;-10.909774;-37.0662373
+964044;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+100698;90000;Rua Nelson Gonçalves; Chacara Itapoa;1;0;1;1000;8;0;0;0;0;Venda;;
+521878;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+100087;473700;Rua Constantino Abreu Araújo; Parque Yolanda;3;2;4;153;6;1;0;0;0;Venda;;
+823174;1489995;Rua Aviador Severiano Lins; Boa Viagem;4;2;6;138;2;1;0;0;0;Venda;-8.1100988;-34.8942375
+410522;60000;Avenida José Candido Porto; Santa Paula;1;0;1;600;8;0;0;0;0;Venda;-23.2736915;-45.9383646
+978175;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+892883;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+11591;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+259849;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+643034;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+249307;530000;Avenida Boa Viagem; Boa Viagem;3;1;3;100;9;0;0;0;0;Venda;-8.1072276;-34.8878628
+396529;1300000;Moema; São Paulo;3;2;3;100;9;0;0;0;0;Venda;-23.597085;-46.6628884
+851215;695000;Rua Pedro Demeterco; Jardim das Américas;3;2;3;124;9;0;0;0;0;Venda;-25.4625862;-49.2292279
+56394;50000;Passagem Mirandinha; Barreiro;2;1;2;70;6;0;0;0;0;Venda;-1.415475;-48.4852926
+30692;249000;QR 319 Conjunto 1; Samambaia Sul;4;2;3;120;9;0;0;0;0;Venda;;
+343705;680000;Avenida Nigéria; Jardim Aclimação;3;2;2;81;2;0;0;0;0;Venda;;
+326215;85000;Rua H; Parque D Pedro;3;1;2;95;6;1;0;0;0;Venda;-3.9061294;-38.5120618
+218442;330000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;2;2;90;6;1;0;0;0;Venda;-3.0754137;-60.0034707
+341076;219500;Centro; Barra dos Coqueiros;1;0;1;300;8;0;0;0;0;Venda;-10.9067714;-37.034182
+62728;240000;Rua Alvinópolis; Flores;2;2;1;58;6;0;0;0;0;Venda;-3.0526538;-60.0029219
+511787;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Venda;;
+405895;350000;Rua Tomaz Edison; Santo Antônio;1;0;1;287;8;0;0;0;0;Venda;-30.0626699;-51.2024167
+23357;60000;Avenida Engenheiro David Monteiro Lino; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+535825;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Venda;-23.1824754;-46.398502
+488901;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+976508;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+305520;240000;Rua Desembargador Luiz F. Cabral; Flores;2;2;1;58;6;0;0;0;0;Venda;;
+726695;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+193518;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+970131;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+230019;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+54586;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+627955;29900;Rua Big Kid; Aralú;1;0;1;500;8;0;0;0;0;Venda;;
+814212;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+992384;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Venda;;
+508184;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Venda;;
+710905;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1;Venda;-9.7160207;-35.8927564
+316482;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3899331;-46.3247545
+572223;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+417470;330000;Rua Dom João VI; Parque Dez de Novembro;3;2;2;90;6;1;0;0;0;Venda;;
+311758;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+759043;180000;Rua Coronel Augusto Fernandes Maia; José Américo de Almeida;2;1;1;59;2;1;0;0;1;Venda;-7.1695391;-34.8551519
+740179;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;2;3;98;2;1;0;0;1;Venda;-10.9931682;-37.053729
+224736;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+375442;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+763557;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Venda;;
+321385;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+730482;29900;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3909975;-46.326398
+372087;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;2;3;98;2;1;0;0;1;Venda;-10.9931682;-37.053729
+30943;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+727377;25000;Rua José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+341114;385000;Avenida Marechal Hermes da Fonseca; Bessa;3;1;2;71;2;1;0;1;0;Venda;-7.0725547;-34.8453149
+293946;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+881657;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+466232;29900;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+135832;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+106827;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+949857;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+733708;198000;Rua Bancário Sérgio Guerra; Anatólia;2;1;1;76;2;1;0;1;0;Venda;-7.1501925;-34.840813
+476606;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Venda;;
+45466;450000;Rua Doutor José Maria; Encruzilhada;3;1;2;62;2;1;0;1;0;Venda;-8.0367258;-34.8946215
+309284;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Venda;;
+53167;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+237779;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+85433;399900;Rua Doutor José Maria; Encruzilhada;2;1;2;58;2;1;1;0;0;Venda;-8.0367258;-34.8946215
+470387;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+936166;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+763063;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+492816;60000;Rua Alfredo Schurig; Centro;1;0;1;600;8;0;0;0;1;Venda;-23.3056894;-45.9692904
+852422;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+37921;360000;Rua Altair Nunes; Parque Dez de Novembro;3;2;1;85;6;0;0;0;0;Venda;-3.0901455;-60.017372
+485935;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+285249;320000;Rua Camboatá; Potecas;2;2;2;65;8;0;0;1;0;Venda;;
+337925;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+751080;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+563350;399000;Rua José Hipólito Cardoso; Boa Viagem;3;1;3;59;9;0;0;0;0;Venda;-8.1409775;-34.909062
+813069;45000;Centro; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;-23.20691;-46.154389
+951318;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+154678;365000;Rua Leandro Barreto; Jardim São Paulo;3;1;1;58;2;1;1;0;1;Venda;-8.0802479;-34.941745
+899766;29900;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0;Venda;-23.4005856;-46.3200394
+573368;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+698991;424000;Rua Guido Rossini Neto; Jardim Roseira;3;2;2;130;6;1;0;0;0;Venda;;
+383420;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+403455;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+794647;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Venda;-22.9557202;-46.5369853
+37681;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+554431;0;Rua Tenente Pantaleão da Paixão; Treze de Maio;2;1;2;104;2;1;0;0;0;Venda;-7.1134215;-34.8620137
+137186;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Venda;-22.2941505;-46.3651907
+22524;260000;Rua Veneza; Centro;2;1;1;54;9;1;0;1;1;Venda;-22.8749828;-47.2317241
+793572;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+232109;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+128270;90000;Avenida das Linhas; Jardim Califórnia;1;0;1;1000;9;0;0;0;0;Venda;-23.2667433;-45.9405582
+383162;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+541695;730000;Avenida das Letras; Loteamento Villa Branca;3;2;2;97;5;1;0;0;0;Venda;;
+992842;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+961560;90000;Rua Francisco Monteoliva Lopes; Lagoa;1;0;1;500;8;0;0;0;0;Venda;;
+601862;45000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+401861;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+917001;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Venda;-22.9557202;-46.5369853
+276208;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Venda;;
+187521;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1;Venda;;
+57324;155000;Rua D; Conjunto Jacaraípe;3;1;2;60;2;0;0;0;0;Venda;-20.1592696;-40.1878273
+925894;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+499215;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+114010;460000;Pousada Del Rey; Igarapé;3;4;1;180;6;0;0;0;0;Venda;-20.0453488;-44.3231178
+449092;310000;Rua Araua; Parque Jandaia;5;2;3;125;6;0;0;1;0;Venda;;
+906807;150000;Parque Alpina; Igaratá;1;0;1;300;9;0;0;0;0;Venda;;
+742632;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+649793;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0;Venda;;
+987620;410010;Avenida Augusto Franco; Getúlio Vargas;3;1;2;78;2;0;0;0;0;Venda;-10.909774;-37.0662373
+704082;430000;Rua Tupi; Ceramica;2;2;2;69;9;0;0;0;0;Venda;-23.6238882;-46.5740598
+148119;990000;Rua Ângelo Varela; Tirol;4;3;5;152;2;1;0;1;0;Venda;-5.7968987;-35.1992853
+724899;442000;Rua Fernando de Noronha; Santa Cândida;1;0;1;156;8;0;0;0;0;Venda;-25.3797705;-49.2395129
+408122;476000;Rua São Vicente; Tamarineira;2;1;2;51;2;1;0;0;0;Venda;-8.0302143;-34.9067716
+474040;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+873455;434000;Rua Frederico Netto; Jardim Sao Domingos;3;2;3;250;6;1;0;0;0;Venda;;
+710938;390000;Rua Guilherme Marconi; Jardim Castelo Branco;3;2;2;152;6;1;0;0;0;Venda;;
+835824;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Venda;;
+403299;580000;Avenida Coronel Fernando Ferreira Leite; Jardim Califórnia;3;4;2;170;6;1;0;0;0;Venda;-21.2035375;-47.8209163
+629412;214900;Rua Vicente Januário D'Angelo; Santa Terezinha;2;1;1;54;2;0;0;0;0;Venda;-23.7191097;-46.5328747
+872500;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+303816;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+999503;480000;Rua Amadeu Amaral; Vila Seixas;3;2;3;151;5;1;0;0;0;Venda;-21.1836609;-47.7997416
+405501;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+900890;70000;Rua Miosótis; Usina;1;0;1;700;8;0;0;0;0;Venda;;
+788676;49900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0;Venda;;
+378104;550000;Rua José Juvenil; Parque Havai;3;2;3;110;6;1;0;0;0;Venda;-3.9058901;-38.4479822
+704452;500000;Rua Guilherme Marconi; Jardim Castelo Branco;2;2;2;114;6;1;0;0;0;Venda;;
+264099;455000;Rua João Ramos e Silva; Parque São Sebastião;3;2;4;130;6;1;0;0;0;Venda;;
+544978;0;Rua Frederico Netto; Jardim Sao Domingos;3;2;3;250;6;1;0;0;0;Venda;;
+372743;450000;Rua Francisco de Assis Pupo; Vila Industrial;3;1;2;86;2;0;0;1;0;Venda;;
+550285;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+797029;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+198230;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+5150;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+937776;30000;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3909975;-46.326398
+568182;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+856337;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0;Venda;;
+445458;390000;Rua Guilherme Marconi; Jardim Castelo Branco;3;2;2;152;6;1;0;0;0;Venda;;
+581728;456000;Rua São Vicente; Tamarineira;2;1;2;51;2;1;0;0;0;Venda;-8.0302143;-34.9067716
+148112;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+650834;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+110060;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+596575;530000;Rua Arruda Alvim; Pinheiros;1;1;1;27;2;0;0;0;0;Venda;-23.5537614;-46.675061
+526797;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+348033;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+953727;600000;Rua Henrique Dumont; Jardim Paulista;3;4;3;168;6;0;0;0;0;Venda;-21.1784425;-47.7990908
+49464;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+19370;0;Rua Frederico Netto; Jardim Sao Domingos;3;2;3;250;6;1;0;0;0;Venda;;
+283254;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Venda;;
+521650;169900;Avenida Antônio Cabral de Souza; Nossa Senhora da Conceição;2;1;1;46;9;0;0;0;0;Venda;-7.8850144;-34.8334278
+858468;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+352201;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0;Venda;-23.4005856;-46.3200394
+640139;480000;Rua Valmir Elias de Souza; Jardim dos colibris;3;2;1;132;6;1;0;0;0;Venda;;
+308249;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+1032;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Venda;;
+225820;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+332436;170000;Rua General Câmara; Ipiranga;2;2;1;117;6;0;0;0;0;Venda;-21.1474215;-47.8209028
+408609;260000;Rua Adalberto Pajuaba; Sumarezinho;3;2;2;167;6;0;0;0;0;Venda;-21.1602545;-47.8242847
+269179;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+208306;350700;Rua José Arnaldo Taques; Residencial Guaira;3;2;2;90;6;1;0;0;0;Venda;;
+510357;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Venda;;
+410193;382000;Rua Amadeu Amaral; Vila Seixas;3;2;3;134;5;1;0;0;0;Venda;-21.1836609;-47.7997416
+882135;435000;Rua Adalberto Pajuaba; Sumarezinho;3;2;3;210;6;1;0;0;0;Venda;-21.1602545;-47.8242847
+187187;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+885352;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3960963;-46.3253991
+611613;60000;Rua José Prianti Sobrinho; Porto de Igaratá;1;0;1;600;6;0;0;0;0;Venda;;
+467766;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0;Venda;;
+808592;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+116465;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0;Venda;;
+977216;160000;Avenida Marginal II; Farolândia;2;1;1;43;2;0;1;0;1;Venda;-10.9737362;-37.0764273
+933547;29990;Centro; Igaratá;1;0;1;600;6;0;0;0;0;Venda;-23.20691;-46.154389
+264685;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+101052;60000;Rua José Prianti Sobrinho; Boa Vista;1;0;1;600;6;0;0;0;0;Venda;;
+839940;200000;Rua General Câmara; Ipiranga;3;2;1;100;6;0;0;0;0;Venda;-21.1474215;-47.8209028
+735734;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+383959;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+863916;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+16770;66000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+117246;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+788326;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+784310;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+681771;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Recanto Suisso;1;0;1;600;8;0;0;0;0;Venda;;
+367108;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+922718;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+13797;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0;Venda;;
+857026;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+228124;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Venda;;
+401606;54900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0;Venda;;
+406845;420000;Avenida Doutor Antônio Alves Passig; Residencial e Comercial Palmares;3;6;3;110;6;1;0;0;0;Venda;;
+989491;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+822445;0;Rua Mário Pinto Agostinho; Jardim Monte Santo;2;2;2;100;6;1;0;0;0;Venda;;
+110442;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;-23.1618308;-46.1591984
+346990;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+624836;30000;Avenida Presidente Dutra; Cidade Nova Aruja;1;0;1;500;8;0;0;0;0;Venda;-23.407939;-46.3393289
+125885;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Venda;;
+612496;485000;Rua Campeche; Bela Vista;3;2;2;97;6;1;0;0;0;Venda;-27.5718164;-48.6239978
+180209;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0;Venda;;
+990222;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+962866;475000;Avenida Flácides Ferreira; Vila Anchieta;2;2;1;200;6;0;0;0;0;Venda;;
+871108;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0;Venda;-23.4005856;-46.3200394
+810064;88000;Passagem Universal; Terra Firme;2;1;1;89;6;1;0;0;0;Venda;-1.4625472;-48.4490861
+108884;49900;Rua João José Batista; Marf II;1;0;1;600;8;0;0;0;0;Venda;;
+423568;220000;Rua General Câmara; Ipiranga;2;1;3;149;6;0;0;0;0;Venda;-21.1474215;-47.8209028
+117672;290000;Avenida Amorim Brenha; Jardim Eldorado;3;2;2;120;6;0;0;0;0;Venda;;
+331772;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;9;0;0;0;0;Venda;;
+581717;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+455203;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+330890;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0;Venda;-23.20691;-46.154389
+689022;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+86518;29999000;Rua Afonso Braz; Vila Nova Conceição;4;8;6;649;9;0;0;0;0;Venda;;
+944721;540000;Madureira; Caxias do Sul;3;2;1;90;2;1;0;0;0;Venda;-29.1553876;-51.1780319
+688781;1768900;Rua Martim Afonso; Bigorrilho;2;2;3;125;6;0;0;0;0;Venda;-25.4291746;-49.2866615
+348507;140000;Avenida Ettore e Aurora Coraucci; Jardim Casa Grande;1;2;1;60;6;1;0;0;0;Venda;;
+421750;90000;Alameda Ceará; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0;Venda;;
+244631;233500;Rua Luiz Carlucci Sobrinho; Residencial e Comercial Palmares;3;1;2;87;2;1;0;0;0;Venda;;
+915335;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+132988;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Venda;;
+117807;90000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0;Venda;;
+551830;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Centreville;1;0;1;600;8;0;0;0;0;Venda;;
+304390;449000;Avenida Murilo Dantas; Farolândia;3;0;2;79;9;1;1;1;0;Venda;-10.970516;-37.0545839
+927122;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+810073;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Bosque dos Pereiras;1;0;1;600;8;0;0;0;0;Venda;;
+361019;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+82881;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3919613;-46.3258253
+919143;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+6424;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+93814;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0;Venda;-23.3855388;-46.3080061
+766193;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0;Venda;;
+441208;60000;Rua José Prianti Sobrinho; Rio Do Peixe;1;0;1;600;6;0;0;0;0;Venda;;
+640215;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0;Venda;;
+750583;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+619588;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+420007;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Venda;-23.1824754;-46.398502
+455820;60000;Rua Attílio Russomano; Vila Santista;1;0;1;500;8;0;0;0;0;Venda;;
+695386;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+77280;60000;Rua dos Andradas; Usina;1;0;1;500;8;0;0;0;0;Venda;-30.0332244;-51.2395602
+835317;149900;Avenida Rio das Pedras; Piracicamirim;2;1;1;46;2;0;0;0;0;Venda;-22.7389315;-47.6295223
+574447;60000;Rua Bartolomeu Peranovich; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.1150063;-46.5495037
+480344;390000;Rua Adalberto Pajuaba; Sumarezinho;3;3;3;157;6;1;0;0;0;Venda;-21.1602545;-47.8242847
+696402;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+98928;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Haras Santa Bárbara;1;0;1;600;8;0;0;0;0;Venda;;
+192225;580000;Avenida Professor João Fiúsa; Alto da Boa Vista;3;4;4;222;6;1;0;0;0;Venda;-21.1999298;-47.81534765678133
+761848;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+57569;30000;Centro; Santa Isabel;1;0;1;500;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+805455;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+681179;49900;Rua Oswaldo Cruz; Centro;1;0;1;30;8;0;0;0;0;Venda;-22.3635008;-47.3926994
+596049;149900;Avenida Rio das Pedras; Piracicamirim;2;1;1;46;2;0;0;0;0;Venda;-22.7389315;-47.6295223
+776309;380000;Rua Bela Vista; Vila Monte Alegre;2;2;1;175;6;0;0;0;0;Venda;-22.8491023;-42.029404
+216585;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+629369;390000;Rua Gedeon Alves Feitosa; Jardim Independencia;3;2;2;167;6;0;0;0;0;Venda;;
+119999;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+74644;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+995689;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+58655;288000;Rua Antônio Fernandes Leite; Jardim Santo Antonio;2;1;2;57;2;0;0;0;0;Venda;-22.9034146;-47.172355
+349352;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+609907;90000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+38398;60000;Rua Farroupilhas; Vila Santista;1;0;1;500;8;0;0;0;0;Venda;;
+698136;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Venda;;
+407785;60000;Estrada Planalto; Vila Santista;1;0;1;500;8;0;0;0;0;Venda;;
+235326;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+319303;470000;Avenida Coronel Fernando Ferreira Leite; Residencial Flórida;4;4;2;213;6;1;0;0;0;Venda;;
+838238;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+127215;679000;Rua Conselheiro Portela; Graças;4;2;3;146;8;0;0;0;0;Venda;-8.0437674;-34.8978339
+417416;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Venda;;
+697652;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+457363;79900;Avenida P.L. do Brasil; Centro;1;0;1;1000;8;0;0;0;0;Venda;-17.7413249;-48.6123149
+141077;120000;Estrada Antiga de Igaratá; Chacaras Reunidas Igarapés;1;0;1;300;8;0;0;0;0;Venda;-23.2953011;-46.0322992
+906564;60000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;600;6;0;0;0;0;Venda;;
+163453;415000;Rua Francisco Leandro; Parque Nova Carioba;3;2;2;150;6;1;0;0;0;Venda;;
+16927;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+135491;369900;Avenida Dois Córregos; Piracicamirim;3;2;2;70;2;1;0;0;0;Venda;-22.7395672;-47.6232996
+403253;550000;Rua Alice Além Saadi; Nova Ribeirânia;3;4;3;191;6;1;0;0;0;Venda;;
+987351;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+209786;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+677361;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+813947;60000;Estrada Municipal da Pedra Grande; Laranja Azeda;1;0;1;500;8;0;0;0;0;Venda;;
+732476;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+982432;160000;Rua Acácia Dória; Centro;3;1;2;67;2;1;0;0;0;Venda;-10.9102394;-37.0239733
+908824;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+447694;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3919613;-46.3258253
+584454;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3957437;-46.3220353
+938842;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0;Venda;;
+42415;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+560978;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3952208;-46.3285622
+959912;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Candido Pinto Caucaia do Alto;1;0;1;600;8;0;0;0;0;Venda;;
+35569;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Capelinha;1;0;1;600;8;0;0;0;0;Venda;;
+656829;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+225238;60000;Rua Francisco da Silveira Franco; Jardim Itaperi;1;0;1;500;8;0;0;0;0;Venda;;
+459741;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+689809;0;Rua Paulo Afonso; Farolândia;3;2;3;107;2;1;0;0;0;Venda;-10.9729048;-37.0572831
+534353;60000;Rua Pixinguinha; Do Mato Dentro;1;0;1;600;8;0;0;0;0;Venda;;
+443892;30000;Avenida P.L. do Brasil; Centro;1;0;1;500;8;0;0;0;0;Venda;-17.7413249;-48.6123149
+296539;570000;Rua das Rosas; Urucunema;3;2;4;145;6;1;0;1;0;Venda;-3.9058687;-38.4546639
+609652;450000;Rua Hermenegildo D'Andréa; Parque Residencial Cidade Universitaria;3;4;4;255;6;1;0;0;0;Venda;;
+612503;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+362208;379991;Rua do Pesque e Pague; Nova Abrantes Abrantes;2;2;2;70;6;1;0;0;0;Venda;;
+794375;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+630963;30000;Avenida P.L. do Brasil; Centro;1;0;1;500;8;0;0;0;0;Venda;-17.7413249;-48.6123149
+742086;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0;Venda;;
+435384;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+155411;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Venda;-2.5530296;-44.2203968
+478230;60000;Praça Aprígio de Toledo; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.11567755;-46.55540339916855
+418872;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+112915;580000;Rua Antônio Baião; Vila Santa Clara;2;2;3;82;9;1;0;1;0;Venda;;
+727349;90000;Estrada Municipal dos Morangueiros; San Fernando Valley;1;0;1;500;8;0;0;0;0;Venda;;
+282834;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+690209;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+776593;4212;; Aquiraz;1;1;1;150;8;0;0;0;0;Venda;46.3144754;11.0480288
+776117;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;9;0;0;0;0;Venda;;
+86345;1800000;Vila Ema; São José dos Campos;3;3;4;147;2;0;0;0;0;Venda;-23.2045216;-45.9014843
+285521;1400000;Rua C238; Jardim América;3;2;4;150;9;0;0;0;0;Venda;;
+401148;16079;Rua Capivara; Aguassaí;1;0;1;250;9;0;0;0;0;Venda;;
+845032;287700;Rua Sebastião Serafim Vieira; Jardim Dom Bosco I;3;2;2;75;6;0;0;0;0;Venda;-22.8180792;-47.2320197
+799167;90000;Estrada Municipal dos Morangueiros; Jardim Flamboyant-B;1;0;1;500;8;0;0;0;0;Venda;;
+6157;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Venda;-2.5530296;-44.2203968
+766081;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Venda;;
+316371;50000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+411409;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0;Venda;-23.3855388;-46.3080061
+169616;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Recanto Arco Verde;1;0;1;600;8;0;0;0;0;Venda;;
+868071;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+248571;60000;Praça Guerreiro da Paz; Vila Santista;1;0;1;500;8;0;0;0;0;Venda;;
+879738;90000;Recanto das Águas; Igaratá;1;0;1;1000;6;0;0;0;0;Venda;;
+113119;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Bairro do Maranhão;1;0;1;600;8;0;0;0;0;Venda;;
+17852;398300;Rua Rio Potengi; Parque Orestes Ongaro;2;2;2;110;6;1;0;0;0;Venda;-22.8420778;-47.2211232
+525563;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+153618;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+778292;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3957437;-46.3220353
+481837;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Venda;;
+134065;69900;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0;Venda;;
+434349;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0;Venda;-23.3855388;-46.3080061
+721414;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+107357;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+107071;896100;Praia dos Carneiros; Tamandare;3;1;1;87;5;0;0;0;0;Venda;-8.69665465;-35.08874783757607
+353446;393000;Loteamento Loanda; Atibaia;1;0;1;300;8;0;0;0;0;Venda;;
+703682;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+289903;135000;Rua Carlos Pereira de Melo; Farolândia;2;1;1;59;2;0;0;0;1;Venda;-10.9691064;-37.0720366
+256567;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+774216;370000;Rua Doutor Vicente Giacaglini; Vila Prudente;2;1;2;69;2;0;0;1;0;Venda;-23.5988939;-46.5670692
+493093;60000;Rua José Prianti Sobrinho; Bosque do Jaguari;1;0;1;600;8;0;0;0;0;Venda;;
+499074;444000;Rua da Harmonia; Casa Amarela;2;1;2;48;2;1;0;0;1;Venda;-8.0243645;-34.9127187
+155396;398300;Rua Rio Potengi; Parque Orestes Ongaro;2;2;2;110;6;1;0;0;0;Venda;-22.8420778;-47.2211232
+516301;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+59740;60000;Rua Faisão; Alpes de Atibaia;1;0;1;500;8;0;0;0;0;Venda;-23.1674889;-46.5431064
+193686;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0;Venda;-23.2351586;-44.7098987
+921108;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Venda;;
+897195;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0;Venda;;
+24683;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Venda;-15.3000401;-49.4271365
+875075;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+917007;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+24657;253407;Araçagy; São José de Ribamar;2;1;2;57;9;0;0;0;0;Venda;-2.48823185;-44.18853368127074
+775837;350000;Rua Floriano Peixoto; Centro;3;2;3;91;2;1;0;1;0;Venda;-21.7589828;-43.3503087
+681466;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+59061;60000;Rua Pampulha; Vila Santista;1;0;1;500;8;0;0;0;0;Venda;-23.1195554;-46.5301721
+939742;450000;Rua Vicente Zírpoli; Caxangá;3;1;1;64;2;1;0;0;0;Venda;-8.0309406;-34.9526533
+462965;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0;Venda;-23.3867186;-46.3060094
+247150;60000;Rua José Prianti Sobrinho; Recantos dos Passaros I;1;0;1;600;6;0;0;0;0;Venda;;
+820777;560000;Rua Antônio Baião; Vila Santa Clara;2;2;1;82;6;1;0;1;0;Venda;;
+605717;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+562408;296700;Rua Santa Rita do Passa Quatro; Jardim Nova Europa;2;1;2;52;2;1;0;0;0;Venda;;
+562394;290000;Rua Adelino Antônio Chaves; Quintino Facci II;3;3;1;134;6;0;0;0;0;Venda;-21.1100571;-47.7953846
+39286;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Venda;;
+947885;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.3960963;-46.3253991
+13597;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+757096;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;9;0;0;0;0;Venda;;
+403705;585000;Rua Noboru Nisiyama; Jardim Botânico;3;2;3;105;2;1;0;0;0;Venda;-21.207814;-47.7958742
+234575;30000;Rua Agá; Vila Aruja;1;0;1;500;8;0;0;0;0;Venda;-23.379889;-46.2935764
+728071;0;Rua Paulo Afonso; Farolândia;3;2;3;107;2;1;1;0;0;Venda;-10.9729048;-37.0572831
+525547;198000;Avenida Doutor Luiz de Andrade Lima Neto; Alberto Maia;2;1;1;42;9;0;0;0;0;Venda;-8.0207552;-35.0069179
+384684;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Venda;-2.5530296;-44.2203968
+395450;240000;Rua Demerval da Fonseca; Jardim Santa Terezinha;2;1;1;50;2;0;0;1;1;Venda;;
+756647;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+945145;253413;Araçagy; São José de Ribamar;2;1;2;57;9;0;0;0;0;Venda;-2.48823185;-44.18853368127074
+216526;207000;Rua Vicente Golfeto; Campos Eliseos;2;1;1;49;2;0;0;0;0;Venda;-21.1527877;-47.795963
+412032;60000;Rua Lourenço Franco; Centro;1;0;1;500;8;0;0;0;0;Venda;-23.1146473;-46.5514772
+785048;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+199482;90000;Estrada Municipal Shambala; Nirvana;1;0;1;500;8;0;0;0;0;Venda;;
+432086;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+758425;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+500695;90000;Recanto das Águas; Igaratá;1;0;1;1000;8;0;0;0;0;Venda;;
+311339;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Venda;-27.2756702;-48.8501803
+541356;59900;Avenida Antonio de Oliveira; Centro;1;0;1;1500;8;0;0;0;0;Venda;-23.3160266;-46.5875643
+63145;79900;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Venda;-23.3952774;-46.327251
+305554;650000;Rua Manoel Clemente Gomes; Nova Aliança;3;2;3;101;2;1;0;0;0;Venda;-21.2148781;-47.8222805
+235622;110000;Passagem Santo Onofre; Coqueiro;2;1;1;98;6;1;0;0;0;Venda;-1.3751921;-48.4108291
+234820;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Venda;;
+529987;59900;Rua Oswaldo Cruz; Centro;1;0;1;600;8;0;0;0;0;Venda;-22.3635008;-47.3926994
+833397;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+412554;55000;Avenida Professor Joaquim Barreto; Centro;1;0;1;600;8;0;0;0;0;Venda;-25.7201152;-48.4866794506634
+76861;60000;Estrada Municipal dos Morangueiros; Usina;1;0;1;500;8;0;0;0;0;Venda;;
+405634;253415;Araçagy; São José de Ribamar;2;1;2;57;9;0;0;0;0;Venda;-2.48823185;-44.18853368127074
+32580;120000;Rua Igaratá; Cidade Nova;1;0;1;300;8;0;0;0;0;Venda;-22.9443335;-45.4077512
+22593;435000;Rua Haiti; Jardim América;2;1;2;69;2;0;0;0;1;Venda;-23.2326534;-45.8943446
+827489;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+826856;178350;Forquilha; São José de Ribamar;2;1;1;50;9;0;0;0;0;Venda;-2.5530296;-44.2203968
+596624;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Venda;-23.1168611;-46.5537288
+101479;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+702521;896100;Praia dos Carneiros; Tamandare;3;1;1;87;5;0;0;0;0;Venda;-8.69665465;-35.08874783757607
+298738;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1;Venda;;
+646804;435000;Rua Ruben Berta; Independência;4;3;2;155;6;1;0;0;0;Venda;;
+696783;70000;Recanto das Águas; Igaratá;1;0;1;600;9;0;0;0;0;Venda;;
+904265;80000;Rua Dois de Abril; Cachoeira;1;0;1;1000;8;0;0;0;0;Venda;;
+821610;140000;Rua Belo Horizonte II; Jardim Limoeiro;2;1;1;47;2;0;0;1;0;Venda;-20.2104601;-40.2450478
+481976;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Venda;;
+887495;535000;Rua das Marinas; Ponta Negra;3;4;3;100;6;0;0;0;0;Venda;-3.0292363;-60.0968737
+81969;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+574381;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+928;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Venda;;
+527085;55000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Venda;;
+748092;30000;Rua Prudente de Moraes; Vila Flora Regina;1;0;1;500;8;0;0;0;0;Venda;;
+460104;6900000;Itaipava; Petrópolis;8;6;2;245;6;0;0;0;0;Alguel;-22.3828575;-43.106712689617304
+630696;1550000;Rua Francisco Zuneda Ferreira da Costa; Bairro Alto;3;2;5;198;6;1;0;0;0;Alguel;-25.4115993;-49.2174967
+630601;1537000;Rua Caminho das Bromélias; Campeche;3;0;4;450;6;1;0;1;0;Alguel;-27.6892308;-48.505494
+466245;50000;Passagem Mirandinha; Barreiro;2;1;2;70;6;0;0;0;0;Alguel;-1.415475;-48.4852926
+827932;249000;QR 319 Conjunto 1; Samambaia Sul;4;2;3;120;9;0;0;0;0;Alguel;;
+992703;680000;Avenida Nigéria; Jardim Aclimação;3;2;2;81;2;0;0;0;0;Alguel;;
+597604;85000;Rua H; Parque D Pedro;3;1;2;95;6;1;0;0;0;Alguel;-3.9061294;-38.5120618
+23896;330000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;2;2;90;6;1;0;0;0;Alguel;-3.0754137;-60.0034707
+47690;219500;Centro; Barra dos Coqueiros;1;0;1;300;8;0;0;0;0;Alguel;-10.9067714;-37.034182
+416366;240000;Rua Alvinópolis; Flores;2;2;1;58;6;0;0;0;0;Alguel;-3.0526538;-60.0029219
+481746;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Alguel;;
+455271;350000;Rua Tomaz Edison; Santo Antônio;1;0;1;287;8;0;0;0;0;Alguel;-30.0626699;-51.2024167
+260334;60000;Avenida Engenheiro David Monteiro Lino; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+542473;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Alguel;-23.1824754;-46.398502
+506340;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+951602;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+554789;240000;Rua Desembargador Luiz F. Cabral; Flores;2;2;1;58;6;0;0;0;0;Alguel;;
+278375;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+363941;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+447350;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+827228;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+917802;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+604111;29900;Rua Big Kid; Aralú;1;0;1;500;8;0;0;0;0;Alguel;;
+392157;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+287174;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Alguel;;
+21094;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Alguel;;
+285285;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1;Alguel;-9.7160207;-35.8927564
+373624;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3899331;-46.3247545
+484980;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+719053;330000;Rua Dom João VI; Parque Dez de Novembro;3;2;2;90;6;1;0;0;0;Alguel;;
+125809;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+50763;180000;Rua Coronel Augusto Fernandes Maia; José Américo de Almeida;2;1;1;59;2;1;0;0;1;Alguel;-7.1695391;-34.8551519
+337743;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;2;3;98;2;1;0;0;1;Alguel;-10.9931682;-37.053729
+230751;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+301083;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+177349;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+36990;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+947874;29900;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3909975;-46.326398
+243766;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;2;3;98;2;1;0;0;1;Alguel;-10.9931682;-37.053729
+821318;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+571717;25000;Rua José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+53759;385000;Avenida Marechal Hermes da Fonseca; Bessa;3;1;2;71;2;1;0;1;0;Alguel;-7.0725547;-34.8453149
+22842;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+696392;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+279842;29900;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+554346;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+444584;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+158826;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+789580;198000;Rua Bancário Sérgio Guerra; Anatólia;2;1;1;76;2;1;0;1;0;Alguel;-7.1501925;-34.840813
+190772;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Alguel;;
+793749;450000;Rua Doutor José Maria; Encruzilhada;3;1;2;62;2;1;0;1;0;Alguel;-8.0367258;-34.8946215
+156521;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Alguel;;
+498315;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-22.2941505;-46.3651907
+913958;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+371272;399900;Rua Doutor José Maria; Encruzilhada;2;1;2;58;2;1;1;0;0;Alguel;-8.0367258;-34.8946215
+361695;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+507218;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+205043;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+94906;60000;Rua Alfredo Schurig; Centro;1;0;1;600;8;0;0;0;1;Alguel;-23.3056894;-45.9692904
+346720;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+679390;360000;Rua Altair Nunes; Parque Dez de Novembro;3;2;1;85;6;0;0;0;0;Alguel;-3.0901455;-60.017372
+568360;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+391263;320000;Rua Camboatá; Potecas;2;2;2;65;8;0;0;1;0;Alguel;;
+624990;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+362412;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+403667;399000;Rua José Hipólito Cardoso; Boa Viagem;3;1;3;59;9;0;0;0;0;Alguel;-8.1409775;-34.909062
+377047;45000;Centro; Igaratá;1;0;1;1000;8;0;0;0;0;Alguel;-23.20691;-46.154389
+470988;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+257048;365000;Rua Leandro Barreto; Jardim São Paulo;3;1;1;58;2;1;1;0;1;Alguel;-8.0802479;-34.941745
+125140;29900;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;-23.4005856;-46.3200394
+456534;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+463977;424000;Rua Guido Rossini Neto; Jardim Roseira;3;2;2;130;6;1;0;0;0;Alguel;;
+617613;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+783609;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+108547;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Alguel;-22.9557202;-46.5369853
+620381;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+731723;0;Rua Tenente Pantaleão da Paixão; Treze de Maio;2;1;2;104;2;1;0;0;0;Alguel;-7.1134215;-34.8620137
+321756;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-22.2941505;-46.3651907
+957248;260000;Rua Veneza; Centro;2;1;1;54;9;1;0;1;1;Alguel;-22.8749828;-47.2317241
+581274;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+328001;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+202280;90000;Avenida das Linhas; Jardim Califórnia;1;0;1;1000;9;0;0;0;0;Alguel;-23.2667433;-45.9405582
+268944;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+519097;730000;Avenida das Letras; Loteamento Villa Branca;3;2;2;97;5;1;0;0;0;Alguel;;
+400212;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+979389;90000;Rua Francisco Monteoliva Lopes; Lagoa;1;0;1;500;8;0;0;0;0;Alguel;;
+145348;45000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+639101;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+944512;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Alguel;-22.9557202;-46.5369853
+996891;50000;Rua Acácia; Santa Inês;1;0;1;1000;8;0;0;0;0;Alguel;;
+873771;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1;Alguel;;
+813275;155000;Rua D; Conjunto Jacaraípe;3;1;2;60;2;0;0;0;0;Alguel;-20.1592696;-40.1878273
+19834;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+241890;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+139703;460000;Pousada Del Rey; Igarapé;3;4;1;180;6;0;0;0;0;Alguel;-20.0453488;-44.3231178
+133004;310000;Rua Araua; Parque Jandaia;5;2;3;125;6;0;0;1;0;Alguel;;
+824349;150000;Parque Alpina; Igaratá;1;0;1;300;9;0;0;0;0;Alguel;;
+171031;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+937632;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0;Alguel;;
+17005;410010;Avenida Augusto Franco; Getúlio Vargas;3;1;2;78;2;0;0;0;0;Alguel;-10.909774;-37.0662373
+474250;2300000;Rua Nicolau Vitiello; Jardim Acapulco ;3;4;5;260;6;1;0;0;0;Alguel;;
+2221;1100000;Zona Rural; Paraibuna;3;0;1;150;9;1;0;0;0;Alguel;;
+515894;4250000;Avenida Coronel Miguel Dias; Guararapes;5;5;4;259;2;0;0;0;0;Alguel;-3.7602961;-38.4880035
+264137;349900;Rua João Fornari; Jardim Independencia;3;4;2;173;8;1;0;0;0;Alguel;;
+540745;350000;Rua Apeninos; Vila Albertina;3;4;3;250;5;1;0;0;0;Alguel;;
+174398;330000;Avenida da Saudade; Campos Eliseos;3;3;3;169;6;1;0;0;0;Alguel;;
+269259;340000;Rua Gedeon Alves Feitosa; Jardim Independencia;3;3;2;195;6;1;0;0;0;Alguel;;
+749422;280000;Rua Adalberto Pajuaba; Sumarezinho;3;2;2;168;6;1;0;0;0;Alguel;-21.1602545;-47.8242847
+461008;0;Rua Gabriel Carraro; Parque dos Servidores;2;2;2;143;6;1;0;0;0;Alguel;;
+892756;200000;Avenida Maestro Alfredo Pires; Jardim Heitor Rigon;3;3;4;190;6;1;0;0;0;Alguel;-21.1146384;-47.8160348
+552604;85000;Rua H; Parque D Pedro;3;1;2;95;6;1;0;0;0;Alguel;-3.9061294;-38.5120618
+761225;100000;Avenida Arco-Íris; Boa Viagem;3;1;2;100;9;0;0;0;0;Alguel;;
+298478;300000;Rua General Câmara; Ipiranga;3;2;2;100;6;1;0;0;0;Alguel;-21.1474215;-47.8209028
+682833;360000;Rua Doutor Roberto Mange; Vila Tamandaré;3;2;2;135;5;1;0;0;0;Alguel;;
+335263;250000;Avenida Octávio Golfeto; Jardim Jose Sampaio Junior;3;4;2;96;6;0;0;0;0;Alguel;;
+866992;350000;Rua Edgard Colombini; Jardim Arlindo Laguna;3;2;2;185;6;1;0;0;0;Alguel;;
+860188;65000;Largo da Valéria; Valéria;3;1;1;90;6;0;0;0;0;Alguel;;
+337320;418000;Rua Tenente Rosana Ribeiro Restini; Ribeirao Verde;4;2;3;151;6;1;0;0;0;Alguel;-21.1315659;-47.739145
+792182;770000;Praça Platão; Vila Formosa;4;2;4;190;5;1;0;0;0;Alguel;-23.568423449999997;-46.538863709917436
+575966;300000;Rua General Câmara; Ipiranga;3;3;2;170;6;1;0;0;0;Alguel;-21.1474215;-47.8209028
+859097;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;4;2;232;6;0;0;0;0;Alguel;;
+620253;195000;Avenida Maestro Alfredo Pires; Jardim Heitor Rigon;2;2;2;117;6;1;0;0;0;Alguel;-21.1146384;-47.8160348
+652248;152000;Rua Everton Coelho; Dezoito do Forte;3;1;2;70;2;1;0;0;1;Alguel;;
+650276;450000;Rua Cravinhos; Jardim Paulistano;3;3;4;135;6;1;0;0;0;Alguel;;
+754159;540000;Rua José Barense; Greenville;3;2;3;143;6;1;0;0;0;Alguel;-21.2159766;-47.7680684
+492908;350000;Rua Adalberto Pajuaba; Sumarezinho;3;2;1;130;6;1;0;0;0;Alguel;-21.1602545;-47.8242847
+798810;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+827745;495000;Rua José de Paula; Centro;3;2;3;146;7;0;0;0;0;Alguel;-22.3520066;-47.3774423
+688577;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+392819;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+397177;265000;Rua Álvares de Azevedo; Vila Tibério;3;4;2;113;5;0;0;0;0;Alguel;-21.1719218;-47.820098
+775407;49900;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;0;Alguel;-9.7160207;-35.8927564
+58119;220000;Rua Francisco Buonvicini; Jardim Jandaia;2;4;2;170;6;0;0;0;0;Alguel;;
+144049;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+791182;60000;Avenida Cléo de Verberena; Altos de Santana I ;1;0;1;600;8;0;0;0;0;Alguel;;
+216982;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+770438;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+230787;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+68826;310000;Rua Camilo de Mattos; Jardim Mosteiro;2;2;2;110;6;0;0;0;0;Alguel;;
+359136;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1;Alguel;-9.7160207;-35.8927564
+459770;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3899331;-46.3247545
+309141;390000;Avenida Monteiro Lobato; VILA VIRGINIA;3;2;2;180;5;0;0;0;0;Alguel;;
+305948;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+111828;375000;Rua José Arigó; Jardim Novo Mundo;3;4;2;260;6;1;0;0;0;Alguel;;
+248904;510000;Rua Professora Edina Rocha de Freitas; Jardim Macedo;3;4;3;200;6;1;0;0;0;Alguel;;
+947042;390000;Avenida Ivo Pareschi; Planalto Verde I;3;3;3;162;6;1;0;0;0;Alguel;-21.1393163;-47.8525352
+126099;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+513078;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+863586;550000;Rua Marechal Mascarenhas de Morais; Parque Industrial Lagoinha;3;4;4;265;9;1;0;0;0;Alguel;-21.1892049;-47.7659401
+997179;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+238044;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+454894;385000;Avenida Marechal Hermes da Fonseca; Bessa;3;1;2;71;2;1;0;1;0;Alguel;-7.0725547;-34.8453149
+273928;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+229759;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+83905;198000;Rua Bancário Sérgio Guerra; Anatólia;2;1;1;76;2;1;0;1;0;Alguel;-7.1501925;-34.840813
+184605;55000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;1;Alguel;;
+833450;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+258951;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-22.2941505;-46.3651907
+493009;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+897373;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+677558;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+612805;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+328336;499900;Avenida Octávio Golfeto; Jardim Jose Sampaio Junior;3;3;2;111;6;0;0;0;0;Alguel;;
+10322;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+778866;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+224236;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+325887;45000;Centro; Igaratá;1;0;1;1000;8;0;0;0;0;Alguel;-23.20691;-46.154389
+877100;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Alguel;-23.1824754;-46.398502
+318061;200000;Rua Álvares de Azevedo; Vila Tibério;3;2;2;102;5;0;0;0;0;Alguel;-21.1719218;-47.820098
+691206;395000;Rua Júlio Cesar; Parque Dez de Novembro;3;2;1;95;6;0;0;0;0;Alguel;-3.09042;-60.0198316
+210188;424000;Rua Guido Rossini Neto; Jardim Roseira;3;2;2;130;6;1;0;0;0;Alguel;;
+637599;280000;Rua General Câmara; Ipiranga;2;2;1;101;6;0;0;0;0;Alguel;-21.1474215;-47.8209028
+993219;678000;Rua João Tibiriçá; Lapa;2;1;2;55;2;1;0;0;0;Alguel;-23.5218211;-46.7169631
+601304;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+89017;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0;Alguel;-22.9557202;-46.5369853
+910591;430000;Rua Cravinhos; Jardim Paulistano;3;2;3;170;6;1;0;0;0;Alguel;;
+64243;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+905556;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+745588;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-22.2941505;-46.3651907
+419226;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+17767;410000;Rua Jácomo Natal Granzotto; Parque Residencial Cândido Portinari;3;2;2;150;6;1;0;0;0;Alguel;;
+711616;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+7346;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+566613;45000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+121682;49999;Avenida Antonio de Oliveira; Rio Acima;1;0;1;1000;8;0;0;0;0;Alguel;;
+293259;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+982029;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+50609;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+714887;890000;Avenida Santa Cruz; Santa Cruz;3;2;4;150;9;0;0;0;0;Alguel;-27.3984446;-55.9260629
+575345;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+772362;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+451065;440000;Rua Adalberto Pajuaba; Sumarezinho;3;2;2;120;6;1;0;0;0;Alguel;-21.1602545;-47.8242847
+279657;250000;Avenida Ivo Pareschi; Planalto Verde I;3;2;1;100;6;1;0;0;0;Alguel;-21.1393163;-47.8525352
+279910;410010;Avenida Augusto Franco; Getúlio Vargas;3;1;2;78;2;0;0;0;0;Alguel;-10.909774;-37.0662373
+995790;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+136835;265000;Rua Antônio Roselli; Planalto Verde I;3;2;2;125;6;1;0;0;0;Alguel;-21.1406737;-47.841397
+445484;90000;Rua Nelson Gonçalves; Chacara Itapoa;1;0;1;1000;8;0;0;0;0;Alguel;;
+957627;473700;Rua Constantino Abreu Araújo; Parque Yolanda;3;2;4;153;6;1;0;0;0;Alguel;;
+319890;210000;Via Luiz Galvão Cezar; Parque das Andorinhas;3;2;1;95;6;0;0;0;0;Alguel;;
+627897;1489995;Rua Aviador Severiano Lins; Boa Viagem;4;2;6;138;2;1;0;0;0;Alguel;-8.1100988;-34.8942375
+93179;745000;Vila Assuncao; Santo André;3;2;2;91;2;1;0;0;0;Alguel;-23.6714442;-46.5268318
+196346;585000;Avenida Conselheiro Nébias; Boqueirão;1;1;2;47;2;1;0;0;0;Alguel;-23.9705733;-46.3240404
+643595;316000;Rua Almirante Protógenes Guimarães; Ipiranga;3;3;3;227;9;1;0;0;0;Alguel;-23.5965955;-46.6032314
+199272;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0;Alguel;;
+607614;410010;Avenida Augusto Franco; Getúlio Vargas;3;1;2;78;2;0;0;0;0;Alguel;-10.909774;-37.0662373
+683307;239000;Rodovia Mário Covas; Coqueiro;2;1;2;46;2;0;0;0;0;Alguel;-1.3469557;-48.434721
+163386;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+152052;700000;Rua Teresinha Farias; Fátima;3;2;2;105;2;1;1;0;0;Alguel;-5.0653362;-42.78608
+847655;90000;Rua Nelson Gonçalves; Chacara Itapoa;1;0;1;1000;8;0;0;0;0;Alguel;;
+920258;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+602937;473700;Rua Constantino Abreu Araújo; Parque Yolanda;3;2;4;153;6;1;0;0;0;Alguel;;
+533929;1489995;Rua Aviador Severiano Lins; Boa Viagem;4;2;6;138;2;1;0;0;0;Alguel;-8.1100988;-34.8942375
+194100;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+720911;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+327401;50000;Alameda Aldeia Pitoresca; Barreiro;1;0;1;1000;8;0;0;0;0;Alguel;-23.3310647;-46.5908409
+698199;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+820083;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+23019;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-22.2941505;-46.3651907
+92091;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+466370;29900;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+297483;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+503968;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+381127;55000;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;600;9;0;0;0;0;Alguel;;
+96534;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+231558;70000;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0;Alguel;;
+537593;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+708618;462718;Rua Cândido Lacerda; Torreão;2;1;2;57;9;0;0;0;0;Alguel;-8.0404865;-34.8834305
+429411;120000;Rua de Igaratá; Jardim Alvorada;1;0;1;300;8;0;0;0;0;Alguel;;
+773298;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+442929;90000;Avenida Coronel Ernesto Andrade Alves; Água Espraiada;1;0;1;500;8;0;0;0;0;Alguel;;
+568346;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+485847;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Alguel;;
+399965;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3899331;-46.3247545
+81307;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+107650;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+437184;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+709857;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+631777;513900;Rua Irmãs Paulinas; Novo Mundo;2;1;2;62;2;1;0;0;0;Alguel;-25.4900755;-49.2916342
+590127;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+581862;69900;Rua Miosótis; Usina;1;0;1;700;9;0;0;0;0;Alguel;;
+682838;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+664573;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+820820;90000;Estrada Municipal Jayme Gibim; Jardim dos Pinheiros;1;0;1;500;8;0;0;0;0;Alguel;;
+933347;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+522464;415000;Rua das Juritis; Encantada;3;2;3;92;6;1;0;0;0;Alguel;;
+403690;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+144773;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+419360;70000;Rua Miosótis; Usina;1;0;1;700;8;0;0;0;0;Alguel;;
+84095;49900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0;Alguel;;
+912502;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+991328;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+482706;550000;Rua José Juvenil; Parque Havai;3;2;3;110;6;1;0;0;0;Alguel;-3.9058901;-38.4479822
+763179;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0;Alguel;;
+193680;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+29630;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+87476;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+379544;75000;Largo de Pau da Lima; Pau da Lima;2;1;1;75;6;1;1;0;0;Alguel;;
+708227;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+104017;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+908599;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;2;3;98;2;1;0;0;0;Alguel;-10.9931682;-37.053729
+38044;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+211035;30000;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3909975;-46.326398
+388463;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+250760;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0;Alguel;;
+555648;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Alguel;-23.1824754;-46.398502
+363036;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+410854;60000;Rua Acre; Centro;1;0;1;600;8;0;0;0;0;Alguel;-22.5543186;-47.4012711
+79347;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+639318;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+208709;530000;Rua Arruda Alvim; Pinheiros;1;1;1;27;2;0;0;0;0;Alguel;-23.5537614;-46.675061
+315239;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+539868;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+688565;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+620791;467850;Avenida Joaquina Ramalho; Vila Guilherme;2;1;2;60;2;1;0;0;0;Alguel;-23.509002;-46.6055535
+951935;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+882476;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Alguel;;
+710277;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0;Alguel;;
+600267;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+726976;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+872416;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+879363;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0;Alguel;;
+652708;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Alguel;;
+79398;169900;Avenida Antônio Cabral de Souza; Nossa Senhora da Conceição;2;1;1;46;9;0;0;0;0;Alguel;-7.8850144;-34.8334278
+233883;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+523222;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;-23.4005856;-46.3200394
+201944;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+361896;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Alguel;;
+491094;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3957437;-46.3220353
+850206;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+255763;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+299605;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+682546;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+392585;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;9;0;0;0;0;Alguel;;
+657294;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+775277;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+889681;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3960963;-46.3253991
+247026;60000;Rua José Prianti Sobrinho; Porto de Igaratá;1;0;1;600;6;0;0;0;0;Alguel;;
+422200;60000;Praça Raul Chaves; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.3043819;-45.96680368066467
+540011;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+714646;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+308591;1100000;Petrópolis; Porto Alegre;2;2;2;164;2;0;0;1;0;Alguel;-30.0394053;-51.1830208
+516834;690000;Rua Tritão; Jardim Maristela;3;2;4;118;9;1;0;1;0;Alguel;;
+673886;470000;Boa Viagem; Recife;3;1;3;74;2;0;0;0;0;Alguel;-8.1235027;-34.9033955
+413731;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+794393;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0;Alguel;-23.1168611;-46.5537288
+855876;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+974844;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0;Alguel;-23.20691;-46.154389
+454148;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;2;2;90;6;0;1;0;0;Alguel;-3.0754137;-60.0034707
+76974;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+651899;70000;Rua Miosótis; Usina;1;0;1;700;8;0;0;0;0;Alguel;;
+238790;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0;Alguel;-23.20691;-46.154389
+177674;30000;Rua Washington Luiz Pereira de Souza; Vila Flora Regina;1;0;1;500;8;0;0;0;0;Alguel;;
+401258;80000;Rua Miosótis; Usina;1;0;1;800;8;0;0;0;0;Alguel;;
+819298;70000;Avenida Professor Joaquim Barreto; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-25.7201152;-48.4866794506634
+174604;140000;Rua Rio das Canas; Centro;3;1;1;60;2;0;0;0;0;Alguel;-10.9043131;-37.0260398
+621316;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Alguel;-2.5530296;-44.2203968
+108840;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+542819;314000;Avenida Coronel Teixeira; Ponta Negra;2;1;1;50;2;1;0;0;0;Alguel;-3.0822265;-60.0754987
+862946;90000;Alameda Ceará; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0;Alguel;;
+928870;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+173600;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+390785;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0;Alguel;;
+52670;90000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0;Alguel;;
+109457;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;2;2;90;6;0;1;0;0;Alguel;-3.0754137;-60.0034707
+259353;65000;Centro; Iranduba;1;0;1;2400;8;0;0;0;0;Alguel;-20.5098746;-54.6380286
+934190;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Centreville;1;0;1;600;8;0;0;0;0;Alguel;;
+815508;235000;Via João Batista Santanna; Reserva Sul Condomínio Resort;2;2;2;54;2;1;0;0;0;Alguel;;
+174231;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+935667;381600;Rua Valentim Mestriner; Iguatemi;3;2;2;107;2;1;0;1;0;Alguel;;
+440290;420000;Rua Doutor José Maria; Encruzilhada;2;1;2;58;2;1;0;0;0;Alguel;-8.0367258;-34.8946215
+735729;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Bosque dos Pereiras;1;0;1;600;8;0;0;0;0;Alguel;;
+462116;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+941285;29900;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3960963;-46.3253991
+22039;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3919613;-46.3258253
+582029;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+783458;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+489016;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0;Alguel;-23.3855388;-46.3080061
+799303;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0;Alguel;;
+224306;60000;Rua José Prianti Sobrinho; Rio Do Peixe;1;0;1;600;6;0;0;0;0;Alguel;;
+897403;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0;Alguel;;
+19702;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+969209;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+944556;55000;Recanto das Águas; Igaratá;1;0;1;600;9;0;0;0;0;Alguel;;
+795439;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0;Alguel;-23.1824754;-46.398502
+705254;60000;Rua Attílio Russomano; Vila Santista;1;0;1;500;8;0;0;0;0;Alguel;;
+23884;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+412117;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+145759;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+966987;60000;Rua dos Andradas; Usina;1;0;1;500;8;0;0;0;0;Alguel;-30.0332244;-51.2395602
+645568;60000;Rua Bartolomeu Peranovich; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.1150063;-46.5495037
+513959;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+799123;550000;Rua Guilherme Guittman; Zona Nova;2;1;2;69;9;1;0;0;0;Alguel;;
+588356;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+635005;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+819803;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+95915;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Haras Santa Bárbara;1;0;1;600;8;0;0;0;0;Alguel;;
+317680;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+763511;49900;Rua João José Batista; Conforto;1;0;1;600;8;0;0;0;0;Alguel;;
+368514;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+667797;30000;Centro; Santa Isabel;1;0;1;500;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+556303;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+638086;149900;Avenida Rio das Pedras; Piracicamirim;2;1;1;46;2;0;0;0;0;Alguel;-22.7389315;-47.6295223
+824300;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+311070;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+292721;255000;Rua Luiz Carlucci Sobrinho; Residencial e Comercial Palmares;2;2;2;62;2;1;0;1;0;Alguel;;
+457989;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+915947;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+554967;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+583753;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+310004;365000;Avenida Caramuru; Jardim Republica;3;2;2;84;9;1;0;0;0;Alguel;;
+375044;288000;Rua Antônio Fernandes Leite; Jardim Santo Antonio;2;1;2;57;2;0;0;0;0;Alguel;-22.9034146;-47.172355
+112749;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+250687;90000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+7148;60000;Rua Farroupilhas; Vila Santista;1;0;1;500;8;0;0;0;0;Alguel;;
+653701;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Alguel;;
+327456;60000;Estrada Planalto; Vila Santista;1;0;1;500;8;0;0;0;0;Alguel;;
+103346;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+798608;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+971905;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+409621;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+566998;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0;Alguel;-23.3867186;-46.3060094
+354215;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+305839;79900;Avenida P.L. do Brasil; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-17.7413249;-48.6123149
+222756;140000;Rua Rio das Canas; Centro;3;1;1;60;2;0;0;0;0;Alguel;-10.9043131;-37.0260398
+30264;120000;Estrada Antiga de Igaratá; Chacaras Reunidas Igarapés;1;0;1;300;8;0;0;0;0;Alguel;-23.2953011;-46.0322992
+259807;60000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;600;6;0;0;0;0;Alguel;;
+73736;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+73974;369900;Avenida Dois Córregos; Piracicamirim;3;2;2;70;2;1;0;0;0;Alguel;-22.7395672;-47.6232996
+476465;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Alguel;-2.5530296;-44.2203968
+505784;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+269200;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+685274;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3960963;-46.3253991
+532005;29900;Rua Elpidio Ferreira Guimarães; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3906092;-46.3266367
+578095;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+52960;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;;
+245660;60000;Estrada Municipal da Pedra Grande; Laranja Azeda;1;0;1;500;8;0;0;0;0;Alguel;;
+76711;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+225104;253410;Araçagy; São José de Ribamar;2;1;2;57;9;0;0;0;0;Alguel;-2.48823185;-44.18853368127074
+263692;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3919613;-46.3258253
+534489;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3957437;-46.3220353
+247350;950000;Rua Mário Savi; Vila Prudente;3;4;2;140;5;0;0;0;0;Alguel;;
+544031;260000;Califórnia; Belo Horizonte;3;1;1;62;2;0;0;0;0;Alguel;-19.9247382;-44.0121101
+15815;1200000;Jardim Europa; Goiânia;10;10;10;400;2;0;0;0;0;Alguel;-16.7066567;-49.3145417
+853930;149900;Avenida Rio das Pedras; Piracicamirim;2;1;1;46;2;0;0;0;0;Alguel;-22.7389315;-47.6295223
+760112;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+999635;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0;Alguel;;
+427565;550000;Rua Guilherme Guittman; Zona Nova;2;1;2;69;9;1;0;0;0;Alguel;;
+927185;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+192802;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+839426;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+846705;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Haras Santa Bárbara;1;0;1;600;8;0;0;0;0;Alguel;;
+125902;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+373919;55000;Águas Claras; Viamão;1;0;1;645;8;0;0;0;0;Alguel;-30.13609655;-50.84903132852462
+474482;49900;Rua João José Batista; Conforto;1;0;1;600;8;0;0;0;0;Alguel;;
+980303;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+254295;29900;Praça Dalila Ferreira Barbosa; Jardim Modelo;1;0;1;500;8;0;0;0;0;Alguel;;
+609164;30000;Centro; Santa Isabel;1;0;1;500;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+341824;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+806981;149900;Avenida Rio das Pedras; Piracicamirim;2;1;1;46;2;0;0;0;0;Alguel;-22.7389315;-47.6295223
+190322;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+340303;60000;Avenida Professor Carlos Alberto de Carvalho Pinto; Usina;1;0;1;500;8;0;0;0;0;Alguel;;
+659652;30000;Estrada dos Correas; Canjicas;1;0;1;500;8;0;0;0;0;Alguel;;
+695088;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+923962;50000;Rua XV de Novembro; Rio Abaixo;1;0;1;1000;8;0;0;0;0;Alguel;;
+640109;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3952774;-46.327251
+122593;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+67466;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+257588;206500;Rua General Artur Carvalho; Turu;2;1;1;49;2;0;0;0;0;Alguel;;
+202030;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+53894;288000;Rua Antônio Fernandes Leite; Jardim Santo Antonio;2;1;2;57;2;0;0;0;0;Alguel;-22.9034146;-47.172355
+373519;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+755735;90000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0;Alguel;;
+433301;60000;Rua Farroupilhas; Vila Santista;1;0;1;500;8;0;0;0;0;Alguel;;
+471622;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+952239;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Morada Santa Fe;1;0;1;600;8;0;0;0;0;Alguel;;
+632317;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+122488;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Alguel;;
+287788;60000;Estrada Planalto; Vila Santista;1;0;1;500;8;0;0;0;0;Alguel;;
+468954;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+631332;70000;Rua Miosótis; Usina;1;0;1;700;9;0;0;0;0;Alguel;;
+667024;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+12113;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+821756;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0;Alguel;-27.2756702;-48.8501803
+63335;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0;Alguel;;
+70948;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0;Alguel;-23.3867186;-46.3060094
+952656;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+590627;79900;Avenida P.L. do Brasil; Centro;1;0;1;1000;8;0;0;0;0;Alguel;-17.7413249;-48.6123149
+449194;120000;Estrada Antiga de Igaratá; Chacaras Reunidas Igarapés;1;0;1;300;8;0;0;0;0;Alguel;-23.2953011;-46.0322992
+799969;375000;Rua Dona Julieta; Encruzilhada;3;1;2;61;9;0;0;0;0;Alguel;-8.0330812;-34.8913986
+408363;70000;Rua Pinto Martins; Comércio;2;1;1;100;6;1;0;0;0;Alguel;-12.9714243;-38.5124704
+536438;50000;Rua XV de Novembro; Rio Abaixo;1;0;1;1000;8;0;0;0;0;Alguel;;
+719390;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+124605;178350;Forquilha; São José de Ribamar;2;1;2;50;9;0;0;0;0;Alguel;-2.5530296;-44.2203968
+108081;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+776225;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+353190;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3960963;-46.3253991
+877382;29900;Rua Elpidio Ferreira Guimarães; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3906092;-46.3266367
+269646;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+825956;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+352656;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;;
+861480;60000;Estrada Municipal da Pedra Grande; Laranja Azeda;1;0;1;500;8;0;0;0;0;Alguel;;
+343355;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+275521;253410;Araçagy; São José de Ribamar;2;1;2;57;9;0;0;0;0;Alguel;-2.48823185;-44.18853368127074
+713143;206500;Rua General Artur Carvalho; Turu;2;1;1;49;2;0;0;0;0;Alguel;;
+4234;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3919613;-46.3258253
+783859;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3957437;-46.3220353
+303925;90000;Rua Doutor Aloysio Affonso Nogueira; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0;Alguel;;
+413805;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;;
+692511;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+298590;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3899331;-46.3247545
+625994;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0;Alguel;-23.3952208;-46.3285622
+910430;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Candido Pinto Caucaia do Alto;1;0;1;600;8;0;0;0;0;Alguel;;
+417581;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0;Alguel;-23.3899331;-46.3247545
+109447;50000;Gereraú; Itaitinga;2;1;2;90;6;0;0;0;0;Alguel;-3.909913;-38.531557
+669304;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Capelinha;1;0;1;600;8;0;0;0;0;Alguel;;
+453289;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;6;0;0;0;0;Alguel;;
+269710;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0;Alguel;;
+409048;34999;Centro; Igaratá;1;0;1;600;6;0;0;0;0;Alguel;-23.20691;-46.154389
+838603;60000;Rua Francisco da Silveira Franco; Jardim Itaperi;1;0;1;500;8;0;0;0;0;Alguel;;
+197280;70000;Avenida Bolívar; Centro;1;0;1;422;8;0;0;0;0;Alguel;11.6846566;-70.208941
+504309;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+659008;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0;Alguel;;
+195238;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0;Alguel;-15.3000401;-49.4271365
+382885;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+703426;49900;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;0;Alguel;-9.7160207;-35.8927564
+316408;30000;Avenida P.L. do Brasil; Centro;1;0;1;500;8;0;0;0;0;Alguel;-17.7413249;-48.6123149
+719505;570000;Rua das Rosas; Urucunema;3;2;4;145;6;1;0;1;0;Alguel;-3.9058687;-38.4546639
+181292;250000;Rua Neides de Vasconcelos Sampaio; Santa Margarida I Tamoios;2;2;2;60;6;0;0;0;0;Alguel;;
+53453;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+249555;90000;Rua Cora Coralina; Do Mato Dentro;1;0;1;1000;9;0;0;0;0;Alguel;;
+680038;59900;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;0;Alguel;-9.7160207;-35.8927564
+368671;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0;Alguel;;
+453660;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0;Alguel;;
+463547;379991;Rua do Pesque e Pague; Nova Abrantes Abrantes;2;2;2;70;6;1;0;0;0;Alguel;;
+590760;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0;Alguel;;
+930422;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0;Alguel;-23.1618308;-46.1591984
+809816;30000;Avenida P.L. do Brasil; Centro;1;0;1;500;8;0;0;0;0;Alguel;-17.7413249;-48.6123149
+142160;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0;Alguel;;
+800460;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0;Alguel;;
+66801;60000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0;Alguel;;

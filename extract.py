@@ -129,6 +129,6 @@ def extract_data(transaction_type, pages):
   dataset = pd.DataFrame(cards)
   dataset.to_csv('./data/dataset-'+transaction_type+'.csv', index=False, sep=';', encoding='utf-8-sig')
 
-NUMBER_OF_PAGES = 10
+NUMBER_OF_PAGES = 5
 extract_data('Venda', NUMBER_OF_PAGES)
 extract_data('Alguel', NUMBER_OF_PAGES)
