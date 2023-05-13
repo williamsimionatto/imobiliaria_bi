@@ -52,4 +52,4 @@ def transform_data():
   dataset.to_csv('./data/dataset.csv', sep=';', index=False, encoding='utf-8-sig')
 
 
-transform_data()
+# transform_data()
