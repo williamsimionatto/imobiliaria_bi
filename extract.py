@@ -1,23 +1,14 @@
-import bs4
 from bs4 import BeautifulSoup
-import urllib.request as urllib_request
-from urllib.request import Request, urlopen, urlretrieve
+from urllib.request import Request, urlopen
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 import pandas as pd
 import re
 import random
 
-# print("BeautifulSoup ->", bs4.__version__)
-# print("urllib ->", urllib_request.__version__)
-# print("pandas ->", pd.__version__)
-
 def extract_data(transaction_type, pages):
   cards = []
   garage = []
-  bedrooms = []
-  street = []
-  neighborhood = []
   headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'}
 
   for i in range(pages):
@@ -90,14 +81,14 @@ def extract_data(transaction_type, pages):
 
       description = advert.find('span',{'class':'simple-card__text text-regular'})
       if description == None:
-        description = None
+        description = ''
       else :
         description = str(description.get_text().replace('-',' ').replace('\n',''))
 
       if re.search("kitnet|kitnets|kit|kit net|kitinete|kitinetes|quitinete|kitão|germinada|geminada|conjugado", description.lower()):
         card['type'] =  int(1)
       elif re.search("apartamento|apartamentos|apto|cobertura", description.lower()):
-        card['type'] =  int(2)
+        card['type'] = int(2)
       elif re.search("casa de condominio|casa de condomínio|casa de condominios|casa de condomínios", description.lower()):
         card['type'] =  int(3)
       elif re.search("studio|studios", description.lower()):
@@ -113,9 +104,31 @@ def extract_data(transaction_type, pages):
       else:
         card['type'] =  int(9)
 
+      if re.search("suite|suíte|suites|suítes", description.lower()) != None:
+        card['suite'] =  int(1)
+      else:
+        card['suite'] =  int(0)
+
+      if re.search("academia|academias", description.lower()) != None:
+        card['gym'] =  int(1)
+      else:
+        card['gym'] =  int(0)
+
+      if re.search("varanda|terraço|terraco|sacada|varandas|terraços|terracos|sacadas", description.lower()) != None:
+        card['balcony'] =  int(1)
+      else:
+        card['balcony'] =  int(0)
+
+      if re.search("salao|salão", description.lower()) != None:
+        card['hall'] =  int(1)
+      else:
+        card['hall'] =  int(0)
+
       cards.append(card)
 
   dataset = pd.DataFrame(cards)
   dataset.to_csv('./data/dataset-'+transaction_type+'.csv', index=False, sep=';', encoding='utf-8-sig')
 
-extract_data('Venda', 2)
+NUMBER_OF_PAGES = 10
+extract_data('Venda', NUMBER_OF_PAGES)
+extract_data('Alguel', NUMBER_OF_PAGES)

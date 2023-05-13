@@ -1,0 +1,1001 @@
+﻿id;price;address;neighborhood/city;rooms;garage;bathroom;square_meter;type;suite;gym;balcony;hall
+269422;700000;Alameda Casa Branca; Jardim Paulista;1;parking1;1;45;9;0;0;0;0
+11101;795000;Rua Heriberto Hulse; Serraria;3;parking2;4;116;9;1;0;0;0
+61063;2640000;Rua Carmelina Cavassin; Abranches;5;parking5;7;417;6;0;0;0;0
+541504;350000;Rua Tomaz Edison; Santo Antônio;1;0;1;287;8;0;0;0;0
+621910;476000;Rua São Vicente; Tamarineira;2;parking1;2;51;2;1;0;0;0
+762834;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+81420;270000;Rua João Bim; Jardim Paulistano;3;parking2;2;96;2;1;0;1;0
+528822;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+602052;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+93171;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+802951;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+390192;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+1514;240000;Rua Desembargador Luiz F. Cabral; Flores;2;parking2;1;58;6;0;0;0;0
+722492;314000;Avenida Coronel Teixeira; Ponta Negra;2;parking1;1;50;2;1;0;0;0
+118517;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0
+767286;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+822625;88000;Passagem Universal; Terra Firme;2;parking1;1;89;6;1;0;0;0
+706876;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+521371;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+570824;29900;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+129535;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+488794;55000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;1
+863383;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+744672;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+563720;400000;Rua Dom João VI; Parque Dez de Novembro;3;parking2;2;90;9;1;0;0;0
+456820;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+256592;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+719382;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+418844;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+308520;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+112497;55000;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;600;9;0;0;0;0
+758759;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+485885;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+440974;0;Rua Mário Pinto Agostinho; Jardim Monte Santo;2;parking2;2;100;6;1;0;0;0
+806132;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+323173;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1
+107151;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+74247;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+929501;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+672397;460000;Pousada Del Rey; Igarapé;3;parking4;1;180;6;0;0;0;0
+200453;54900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0
+377667;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+517235;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+874148;59900;Avenida Antonio de Oliveira; Centro;1;0;1;1500;8;0;0;0;0
+827029;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+455196;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+734744;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+533462;45000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+690301;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+684034;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+848907;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+173731;550000;Rua José Juvenil; Parque Havai;3;parking2;3;110;6;1;0;0;0
+716338;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+927473;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+868489;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+930246;29900;Rua Elpidio Ferreira Guimarães; Center Ville;1;0;1;500;8;0;0;0;0
+656834;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+941673;520000;Rua dos Palmares; Jardim Orlandina;3;parking2;4;155;9;1;0;0;0
+542262;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+917907;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+229290;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+518274;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+990081;60000;Rua Acre; Centro;1;0;1;600;8;0;0;0;0
+257612;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+344725;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+259534;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1
+896766;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+683553;90000;Avenida Coronel Ernesto Andrade Alves; São Roque;1;0;1;500;6;0;0;0;0
+41606;462718;Rua Cândido Lacerda; Torreão;2;parking1;2;57;9;0;0;0;0
+456578;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+87452;69908;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+691236;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+891287;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+754032;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+837941;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+780356;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0
+369899;60000;Rua Alfredo Schurig; Centro;1;0;1;600;8;0;0;0;1
+606812;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+544882;473700;Rua Constantino Abreu Araújo; Parque Yolanda;3;parking2;4;153;6;1;0;0;0
+17668;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;9;0;0;0;0
+586087;550000;Rua Guilherme Guittman; Zona Nova;2;parking1;2;69;9;1;0;0;0
+79315;150000;Parque Alpina; Igaratá;1;0;1;300;9;0;0;0;0
+816554;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+387452;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+385623;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+709481;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+568369;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+775528;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+359948;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+649566;570000;Rua Humaitá; Santa Cruz do José Jacques;3;parking2;3;149;2;1;0;0;0
+734986;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0
+89773;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+628204;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+531909;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+402782;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+414371;235000;Via João Batista Santanna; Reserva Sul Condomínio Resort;2;parking2;2;54;2;1;0;0;0
+12736;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+997794;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+940833;485000;Rua Campeche; Bela Vista;3;parking2;2;97;6;1;0;0;0
+490560;420000;Rua Doutor José Maria; Encruzilhada;2;parking1;2;58;2;1;0;0;0
+512765;405000;Rua Carlos Sampaio; Bela Vista;1;parking1;1;40;9;0;0;0;0
+116705;0;Rua Francisco Torres; Centro;3;parking1;1;94;2;0;0;0;0
+844331;1749900;Rua Francisco Pacheco Filho; Condominio Helvetia Park I;4;parking3;4;365;6;1;0;0;0
+924520;350000;Avenida Americano do Brasil; Condomínio Rio Branco;3;parking2;2;111;6;1;0;0;0
+904911;260000;Avenida Barcelona; Santa Rita;2;parking2;2;70;6;1;0;0;0
+143672;370000;Rua MN2; Setor Noroeste;3;parking2;2;97;6;1;0;0;0
+95723;240000;Rua Vicente Leandro; Geraldo Correia de Carvalho;2;parking2;2;86;6;1;0;0;0
+317465;70000;Rua Doutor Ladislau Cavalcanti; Iapi;3;parking1;2;100;9;0;0;0;0
+547917;260000;Avenida Ernesto Guevara La Serna; Parque dos Pinus;2;parking2;2;121;6;1;0;0;0
+431103;250000;Rua Antônio Cabral; Quintino Facci I;3;parking3;3;211;6;1;0;0;0
+155093;476000;Rua São Vicente; Tamarineira;2;parking1;2;51;2;1;0;0;0
+623595;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+514225;0;Rua José Deodoro Santos; Luzia;3;parking1;2;80;2;1;1;0;0
+310845;260000;Avenida Ivo Pareschi; Planalto Verde I;3;parking2;2;69;6;1;0;0;0
+233040;250000;Rua Renato Faraoni; Parque dos Servidores;2;parking2;2;119;6;1;0;0;0
+204742;390000;Rua Guilherme Marconi; Jardim Castelo Branco;3;parking2;2;152;6;1;0;0;0
+632208;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+373979;290000;Rua Adalberto Pajuaba; Sumarezinho;2;parking2;3;269;6;1;0;0;0
+157195;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+155036;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+579444;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+889028;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+557859;314000;Avenida Coronel Teixeira; Ponta Negra;2;parking1;1;50;2;1;0;0;0
+594156;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0
+476569;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+498059;250000;Avenida Octávio Golfeto; Jardim Jose Sampaio Junior;3;parking4;2;96;6;0;0;0;0
+325322;390000;Rua Adalberto Pajuaba; Sumarezinho;3;parking3;3;157;6;1;0;0;0
+552686;88000;Passagem Universal; Terra Firme;2;parking1;1;89;6;1;0;0;0
+441079;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+863399;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+159649;29900;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+585744;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+337403;55000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;1
+360456;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+987574;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+841962;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+915749;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+494178;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+890800;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+144540;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+356363;55000;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;600;9;0;0;0;0
+42298;250000;Rua Basílio Oriente; Jardim Orestes Lopes de Camargo;2;parking4;2;100;6;0;0;0;0
+944964;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+782335;350700;Rua José Arnaldo Taques; Residencial Guaira;3;parking2;2;90;6;1;0;0;0
+617569;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+612500;0;Rua Mário Pinto Agostinho; Jardim Monte Santo;2;parking2;2;100;6;1;0;0;0
+905754;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+817157;60000;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;1
+805599;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+49976;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+777127;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+221990;460000;Pousada Del Rey; Igarapé;3;parking4;1;180;6;0;0;0;0
+967711;54900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0
+641442;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+309491;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+5368;280000;Rua Francisco de Assis Delmondes Pereira Freitas; Ponto Novo;3;parking1;2;75;2;1;1;0;1
+139958;59900;Avenida Antonio de Oliveira; Centro;1;0;1;1500;8;0;0;0;0
+959466;200000;Rua General Câmara; Ipiranga;3;parking2;1;100;6;0;0;0;0
+321028;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+29947;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+275469;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+175125;45000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+515066;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+980147;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+41315;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+108400;550000;Rua José Juvenil; Parque Havai;3;parking2;3;110;6;1;0;0;0
+386319;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+562824;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+428439;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+531644;29900;Rua Elpidio Ferreira Guimarães; Center Ville;1;0;1;500;8;0;0;0;0
+628761;250000;Avenida Monteiro Lobato; VILA VIRGINIA;2;parking2;2;107;5;1;0;0;0
+779759;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+910208;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+65294;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+43276;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+981134;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+881999;60000;Rua Acre; Centro;1;0;1;600;8;0;0;0;0
+480601;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+407174;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+637417;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1
+605500;29900;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+848245;90000;Avenida Coronel Ernesto Andrade Alves; São Roque;1;0;1;500;6;0;0;0;0
+424065;462718;Rua Cândido Lacerda; Torreão;2;parking1;2;57;9;0;0;0;0
+853265;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+525404;69908;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+635385;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+321137;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+789390;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+839761;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+258793;60000;Centro; Piracaia;1;0;1;600;8;0;0;0;0
+762277;60000;Rua Alfredo Schurig; Centro;1;0;1;600;8;0;0;0;1
+68976;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+645123;473700;Rua Constantino Abreu Araújo; Parque Yolanda;3;parking2;4;153;6;1;0;0;0
+1006;424000;Rua Guido Rossini Neto; Jardim Roseira;3;parking2;2;130;6;1;0;0;0
+806382;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+76549;550000;Rua Guilherme Guittman; Zona Nova;2;parking1;2;69;9;1;0;0;0
+10949;150000;Parque Alpina; Igaratá;1;0;1;300;9;0;0;0;0
+927806;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+398773;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+878661;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+724205;450000;Roseira; São José dos Pinhais;1;0;1;5860;9;0;0;0;0
+445747;7500000;Condomínio Terras de São José; Itu;5;0;5;560;6;1;0;0;0
+835749;350000;Rodovia Augusto Montenegro; Parque Verde;2;parking1;2;68;2;1;0;1;0
+426041;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+718552;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+676486;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+703276;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+250068;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0
+24445;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+157521;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+481494;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+434951;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+329338;479000;Rua José Higino; Madalena;3;parking1;2;64;9;0;0;0;0
+359440;60000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;600;8;0;0;0;0
+606929;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+224864;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+352336;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+496571;485000;Rua Campeche; Bela Vista;3;parking2;2;97;6;1;0;0;0
+161402;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+100635;420000;Rua Doutor José Maria; Encruzilhada;2;parking1;2;58;2;1;0;0;0
+37251;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+545580;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+745430;0;Rua Frederico Netto; Jardim Sao Domingos;3;parking2;3;250;6;1;0;0;0
+442740;198000;Rua Bancário Sérgio Guerra; Anatólia;2;parking1;1;76;2;1;0;1;0
+412138;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+266392;60000;Rua Miosótis; Usina;1;0;1;500;9;0;0;0;0
+858037;90000;Rua Nelson Gonçalves; Chacara Itapoa;1;0;1;1000;8;0;0;0;0
+30568;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+955288;49900;Rua Marechal Deodoro; Centro;1;0;1;600;8;0;0;0;0
+891720;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+248527;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+628078;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+737291;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+23493;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+643264;29900;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0
+154272;349000;Rua Hondo; Jardim Oriente;2;parking1;2;56;9;0;0;0;1
+470099;398500;Rua Antônio Joaquim de Souza; Jardim Alvorada;3;parking4;2;232;6;0;0;0;0
+196576;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+558132;30000;Praça Dalila Ferreira Barbosa; Jardim Modelo;1;0;1;500;8;0;0;0;0
+563155;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0
+22413;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0
+200494;434000;Rua Frederico Netto; Jardim Sao Domingos;3;parking2;3;250;6;1;0;0;0
+327200;29900;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0
+185622;30000;Avenida Presidente Dutra; Cidade Nova Aruja;1;0;1;500;8;0;0;0;0
+668003;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0
+693988;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+155940;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+195021;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+976302;530000;Rua Arruda Alvim; Pinheiros;1;parking1;1;27;2;0;0;0;0
+153566;60000;Praça Raul Chaves; Centro;1;0;1;600;8;0;0;0;0
+361224;30000;Rua Prudente de Moraes; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+340951;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+848736;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+977501;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+665825;69999;Estrada da Cachoeira; Usina;1;0;1;700;9;0;0;0;0
+281416;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+28052;30000;Avenida Presidente Dutra; Cidade Nova Aruja;1;0;1;500;8;0;0;0;0
+977754;60000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;600;9;0;0;0;0
+254595;69999;Recanto das Águas; Igaratá;1;0;1;1000;9;0;0;0;1
+977587;60000;Praça Pedro Alves do Nascimento; Centro;1;0;1;600;8;0;0;0;0
+710591;35000;Estrada do Ouro Fino; Centro;1;0;1;1000;8;0;0;0;0
+425856;25000;Rua José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+612741;60000;Rua Benedita Barreto Victor; Centro;1;0;1;600;2;0;0;0;0
+575562;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0
+316164;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+780676;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0
+907046;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0
+524755;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+363728;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+479266;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+295016;850000;Avenida General Djenal Tavares de Queroz; Luzia;3;parking3;4;128;9;1;0;1;0
+528052;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+65416;70000;Avenida Antonio de Oliveira; Rio Acima;1;0;1;1000;8;0;0;0;0
+298879;49999;Avenida Antonio de Oliveira; Rio Acima;1;0;1;1000;8;0;0;0;0
+829076;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0
+56443;50000;Travessa Alcebíades Fagundes; Centro;1;0;1;1000;8;0;0;0;0
+241231;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+989654;468600;Avenida Joaquina Ramalho; Vila Guilherme;3;parking1;2;60;2;1;0;0;0
+404256;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+136054;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+858428;410000;Avenida Doutor José Vieira Lopes da Costa; Urbanova;2;parking1;2;51;2;1;0;0;0
+905772;570000;Rua das Rosas; Urucunema;3;parking2;4;145;6;1;0;1;0
+857454;90000;Rua Mário Quintana; Altos de Santana II;1;0;1;1000;8;0;0;0;0
+685175;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+279639;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+544764;30000;Rua Prudente de Moraes; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+437194;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+293089;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+859487;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+740895;70000;Rua Miosótis; Usina;1;0;1;700;8;0;0;0;0
+522635;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+746425;195000;Rodovia BA-099 - Estrada do Côco; Abrantes;3;parking1;1;50;2;1;0;0;0
+642198;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+456651;90000;Rua Doutor Aloysio Affonso Nogueira; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0
+942296;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+898231;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+654051;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+629901;219500;Centro; Barra dos Coqueiros;1;0;1;300;8;0;0;0;0
+702144;475000;Avenida Flácides Ferreira; Vila Anchieta;2;parking2;1;200;6;0;0;0;0
+780618;456000;Rua São Vicente; Tamarineira;2;parking1;2;51;2;1;0;0;0
+639531;1690000;Rua General Urquiza; Leblon;2;parking1;2;63;2;0;0;0;0
+736820;745000;Celeste; Campo Bom;4;0;4;266;9;1;0;1;0
+111950;0;Gonzaga; Santos;4;parking2;5;219;2;0;0;0;0
+868133;495000;Rua Ribeiro da Costa; Novo Aleixo;3;parking2;3;130;7;0;0;0;0
+37535;70000;Rua Miosótis; Usina;1;0;1;700;8;0;0;0;0
+239576;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+324385;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;parking2;3;98;2;1;0;0;0
+825347;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+283351;90000;Rua Doutor Aloysio Affonso Nogueira; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0
+207491;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+39673;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+54677;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+11255;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+209947;475000;Avenida Flácides Ferreira; Vila Anchieta;2;parking2;1;200;6;0;0;0;0
+775043;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+510717;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+984381;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0
+822027;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+151922;250000;Avenida Presidente Jânio Quadros; Santa Isabel;2;parking1;2;58;2;1;0;0;0
+683801;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+291337;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+792768;60000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;600;6;0;0;0;0
+185320;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+524735;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+347756;0;Rua Paulo Afonso; Farolândia;3;parking2;3;107;2;1;1;0;0
+941318;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+709147;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+319356;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+273789;365000;Rua Leandro Barreto; Jardim São Paulo;3;parking1;1;58;2;1;1;0;1
+745661;90000;Rua Francisco Monteoliva Lopes; Lagoa;1;0;1;500;8;0;0;0;0
+583111;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+824525;253409;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+840372;69900;Avenida José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+985732;390000;Rua Dom João VI; Parque Dez de Novembro;3;parking2;2;90;9;0;0;0;0
+412207;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+588723;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+551640;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+263568;253417;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+875223;60000;Rua Abonam; Gramado;1;0;1;600;8;0;0;0;0
+699028;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;6;0;1;0;0
+304884;60000;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0
+669128;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+194300;90000;Rua Três; San Fernando Valley;1;0;1;500;8;0;0;0;0
+895842;60000;Rua José Prianti Sobrinho; Rio Do Peixe;1;0;1;600;6;0;0;0;0
+294684;30000;Estrada dos Correas; Canjicas;1;0;1;500;8;0;0;0;0
+754501;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+722549;30000;Rua João de Lima; Arujamérica;1;0;1;500;8;0;0;0;0
+550338;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+410410;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;9;0;0;0;0
+753528;29900;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+636872;239000;Rodovia Mário Covas; Coqueiro;2;parking1;2;46;2;0;0;0;0
+775527;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+918083;276000;Rua Daniel Marques Coelho; Jardim Fantinatti Nova Veneza;2;parking2;2;60;6;1;0;0;0
+43559;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+602591;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+865749;59900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+310929;410010;Avenida Augusto Franco; Getúlio Vargas;3;parking1;2;78;2;0;0;0;0
+361186;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0
+924370;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+728015;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0
+242810;49900;Recanto das Águas; Igaratá;1;0;1;600;8;0;0;0;0
+881026;60000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0
+669869;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0
+110673;66000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+855268;60000;Rua Francisco Lourenço Cintra; Jardim Itaperi;1;0;1;500;8;0;0;0;0
+82437;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0
+644475;60000;Rua Floresta; Vila Santista;1;0;1;500;8;0;0;0;0
+749697;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+828144;60000;Rua Maria Aparecida Oliveira; Cachoeira;1;0;1;600;6;0;0;0;0
+396713;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+11869;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0
+198464;480000;Avenida Flácides Ferreira; Cibratel II;3;parking2;1;95;6;0;0;0;0
+333312;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+165137;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+135403;390000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;9;0;0;0;0
+179704;90000;Alameda Ceará; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0
+986668;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;9;0;0;0;0
+926985;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;6;0;0;0;0
+488772;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+835629;180000;Rua Coronel Augusto Fernandes Maia; José Américo de Almeida;2;parking1;1;59;2;1;0;0;1
+778923;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+762194;50000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+112160;70000;Praça Sete de Abril; Sete de Abril;2;parking1;1;100;6;0;0;0;0
+455726;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+397162;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+427878;29900;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+764447;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+443267;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+286389;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+756490;795000;Rua T; Jardim Aclimação;3;0;2;106;2;1;0;0;0
+712806;500000;Avenida Neiva Moreira; Calhau;3;parking2;2;78;2;1;0;0;0
+392288;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+779634;165000;Rua Tenente Waldir dos Santos; Farolândia;3;parking1;1;61;2;0;0;0;0
+234228;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+150134;699000;Rua Joaquim Lima; Papicu;3;parking2;2;78;9;0;0;0;0
+50126;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0
+273482;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+963916;70000;Rua Miosótis; Usina;1;0;1;700;9;0;0;0;0
+672458;350000;Rua Gasparini; Rudge Ramos;2;parking1;2;60;2;1;0;1;0
+385378;54000;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0
+141659;860000;Estrada do Rio Grande; Taquara;5;parking1;3;240;6;0;0;1;0
+267874;898000;Avenida Doutor Renato de Andrade Maia; Parque Renato Maia;3;parking2;3;100;5;1;0;0;0
+999936;289993;Rua Antônio Mendes Campos; Glória;1;0;1;23;1;0;0;0;0
+118974;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+837189;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+962332;90000;Recanto das Águas; Igaratá;1;0;1;1000;8;0;0;0;0
+764296;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+855669;999000;Rua Siqueira Campos; Centro;3;parking3;1;128;2;1;0;1;0
+304457;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+717800;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+685165;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+918588;60000;Rua Chiquinha Gonzaga; Do Mato Dentro;1;0;1;600;9;0;0;0;0
+605144;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+482545;206500;Rua General Artur Carvalho; Turu;2;parking1;1;49;2;0;0;0;0
+754333;34999;Centro; Igaratá;1;0;1;600;6;0;0;0;0
+790484;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+911985;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+866235;150000;Rua Neides de Vasconcelos Sampaio; Unamar;2;parking1;1;60;6;0;0;0;0
+806300;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+934050;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+778709;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+84568;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0
+362061;50000;Alameda Dom Bosco; Rio Acima;1;0;1;1000;8;0;0;0;0
+307584;385000;Avenida Marechal Hermes da Fonseca; Bessa;3;parking1;2;71;2;1;0;1;0
+604364;250000;Parque Alpina; Igaratá;1;0;1;500;9;0;0;0;0
+591584;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+696708;342000;Rua Izola Gerdulo Poli; Urbanova;2;parking1;2;48;2;1;0;0;0
+366154;51000;Rua João José Batista; Centro;1;0;1;600;9;0;0;0;0
+111504;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+867253;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+84477;35000;Rua Santa Isabel; Ouro Fino;1;0;1;1000;8;0;0;0;0
+890647;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+891516;206500;Rua General Artur Carvalho; Turu;2;parking1;1;49;2;0;0;0;0
+34;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+839473;79900;Avenida P.L. do Brasil; Centro;1;0;1;1000;8;0;0;0;0
+43733;90000;Rua José Prianti Sobrinho; Três Marias;1;0;1;1000;8;0;0;0;0
+225249;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+597252;70000;Avenida Professor Joaquim Barreto; Centro;1;0;1;1000;8;0;0;0;0
+763649;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+506054;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+975473;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+752121;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+759184;49900;Avenida Comendador Vicente de Paula Penido; Araujo;1;0;1;600;8;0;0;0;0
+726150;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+736393;29900;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+464024;60000;Praça Três Poderes; Centro;1;0;1;500;8;0;0;0;0
+187981;30000;Praça Dalila Ferreira Barbosa; Jardim Modelo;1;0;1;500;8;0;0;0;0
+623435;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0
+721937;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+731756;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+995859;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+275549;66000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+32048;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+419446;49900;Rua João José Batista; Conforto;1;0;1;600;8;0;0;0;0
+884863;60000;Avenida José Candido Porto; Santa Paula;1;0;1;600;8;0;0;0;0
+133680;60000;Rua Monsenhor Joaquim Antônio Netto; Jardim Itaperi;1;0;1;500;8;0;0;0;0
+87001;60000;Rua Doutor Antônio Gonçalves Barbosa da Cunha; Jardim Itaperi;1;0;1;500;8;0;0;0;0
+454357;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+419541;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0
+677122;50000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+302402;30000;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0
+334317;60000;Rua Attílio Russomano; Vila Santista;1;0;1;500;8;0;0;0;0
+88738;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0
+986262;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+799252;45000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;8;0;0;0;0
+795725;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+337889;60000;Avenida Lucas de Siqueira Franco; Jardim Itaperi;1;0;1;500;8;0;0;0;0
+854055;699000;Rua Joaquim Lima; Papicu;3;parking2;2;78;9;0;0;0;0
+123830;662000;Rua Dona Benvinda de Farias; Boa Viagem;3;parking1;1;63;2;1;0;1;0
+290688;25000;Rua José Prianti Sobrinho; 415;1;0;1;500;8;0;0;0;0
+264216;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+25668;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Quintas do Vila Real;1;0;1;600;8;0;0;0;0
+397494;90000;Recanto das Águas; Igaratá;1;0;1;1000;6;0;0;0;0
+308684;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0
+252474;50000;Rua XV de Novembro; Rio Acima;1;0;1;1000;8;0;0;0;0
+946807;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+597059;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+843026;49900;Centro; Nazaré Paulista;1;0;1;600;8;0;0;0;0
+71235;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+340739;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+894650;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+753340;35000;Estrada Bairro Ouro Fino; Ouro Fino;1;0;1;1000;8;0;0;0;0
+940637;580000;Rua Antônio Baião; Vila Santa Clara;2;parking2;3;82;9;1;0;1;0
+896950;70000;Rua Pinto Martins; Comércio;2;parking1;1;100;6;1;0;0;0
+239947;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Caminho do Sol;1;0;1;600;8;0;0;0;0
+260668;375000;Rua Dona Julieta; Encruzilhada;3;parking1;2;61;9;0;0;0;0
+418651;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;9;0;0;0;0
+38342;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+629101;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+757164;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+988714;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0
+121757;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+892541;30000;Rua João de Lima; Arujamérica;1;0;1;500;8;0;0;0;0
+31226;22000;Estrada do Ouro Fino; Centro;1;0;1;500;8;0;0;0;0
+533547;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+169675;110000;Passagem Santo Onofre; Coqueiro;2;parking1;1;98;6;1;0;0;0
+835584;79900;Praça Dalila Ferreira Barbosa; Jardim Modelo;1;0;1;1000;8;0;0;0;0
+657807;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+491453;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+66645;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+418860;310000;Rua José Maria Lisboa; Cerqueira César;1;parking1;1;23;9;0;0;0;0
+328500;0;Rua Barbedo; Menino Deus;3;parking1;1;101;2;0;0;0;0
+762537;620000;Rua Tabaré; Jardim Sabará;2;parking2;3;100;9;0;0;0;0
+942718;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+608042;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+430924;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+104792;90000;Condomínio Residencial Parque Shambala; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0
+41332;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+561390;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Jardim Araruama;1;0;1;600;8;0;0;0;0
+56241;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+990342;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+978900;60000;Estrada Nove de Julho; Vila Santista;1;0;1;500;8;0;0;0;0
+930856;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+30312;0;Rua Paulo Afonso; Farolândia;3;parking2;3;107;2;1;0;0;0
+243738;60000;Rua Pitangueiras; Vila Santista;1;0;1;500;8;0;0;0;0
+994713;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+869068;60000;Praça Aprígio de Toledo; Centro;1;0;1;500;8;0;0;0;0
+188537;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+154823;60000;Rua José Prianti Sobrinho; Fazenda São Pedro;1;0;1;600;6;0;0;0;0
+190361;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;0;0;0
+461663;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+745953;398300;Rua Rio Potengi; Parque Orestes Ongaro;2;parking2;2;110;6;1;0;0;0
+319628;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0
+883201;365000;Avenida Caramuru; Jardim Republica;3;parking2;2;84;9;1;0;0;0
+582138;60000;Praça Miguel Vairo; Centro;1;0;1;500;8;0;0;0;0
+100468;275000;Rua João Alves de Melo; Lagoa Nova;2;parking1;2;56;2;0;0;0;0
+415319;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+474544;170000;Rua Anna Maria Martins; Jardim Interlagos;1;0;1;320;8;0;0;0;0
+36781;50000;Rua João José Batista; Centro;1;0;1;600;6;0;0;0;0
+669246;169900;Avenida Antônio Cabral de Souza; Nossa Senhora da Conceição;2;parking1;1;46;9;0;0;0;0
+839167;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+810816;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+366680;140000;Rua Belo Horizonte II; Jardim Limoeiro;2;parking1;1;47;2;0;0;1;0
+328584;50000;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+839136;45000;Bosque Jaguari; Igaratá;1;0;1;1000;8;0;0;0;0
+565855;60000;Avenida Nove de Julho; Centro;1;0;1;500;2;0;0;0;0
+898751;253407;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+545675;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+5546;181000;Rua Luiz Ventriche; Parque Bandeirantes I;2;parking1;1;50;2;0;0;0;0
+971906;70000;Avenida Antonio de Oliveira; Centro;1;0;1;1000;8;0;0;0;0
+683487;65000;Centro; Iranduba;1;0;1;2400;8;0;0;0;0
+580680;149900;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+798069;398300;Rua Rio Potengi; Parque Orestes Ongaro;2;parking2;2;110;6;1;0;0;0
+244868;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+72534;283000;Estrada Geraldo Costa Camargo; Loteamento Adventista Campineiro;2;parking1;2;53;2;1;0;0;0
+218656;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+607167;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+218192;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+821818;60000;Rua Lamartine Fagundes; Vila Santista;1;0;1;500;8;0;0;0;0
+425667;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0
+97898;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+43848;60000;Rua Farroupilhas; Vila Santista;1;0;1;500;8;0;0;0;0
+639316;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+348239;348000;Rua Francisco Augusto Rocha; Planalto;3;parking2;2;82;2;1;0;0;0
+797512;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+481846;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0
+744767;90000;Estrada Municipal Shambala; Nirvana;1;0;1;500;8;0;0;0;0
+955292;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+332535;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0
+170058;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+973904;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+951743;55000;Recanto das Águas; Igaratá;1;0;1;600;9;0;0;0;0
+23634;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+280324;90000;Rua Ênio de Abreu Camargo; Vale dos Pinheiros;1;0;1;500;9;0;0;0;0
+659823;399900;Rua Doutor José Maria; Encruzilhada;2;parking1;2;58;2;1;1;0;0
+902546;135000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+85972;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+247782;55000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+719688;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;6;0;0;0;0
+29124;699000;Rua Joaquim Lima; Papicu;3;parking2;2;78;9;0;0;0;0
+512718;56000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+550967;420000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;6;0;1;0;0
+12068;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+343479;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Pununduva;1;0;1;600;8;0;0;0;0
+191182;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+733871;290000;Rua Adelino Antônio Chaves; Quintino Facci II;3;parking3;1;134;6;0;0;0;0
+85801;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0
+980264;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+782166;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+495941;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+635413;380000;Rua Francisco de Assis Delmondes Pereira Freitas; Ponto Novo;3;parking1;3;76;9;1;0;1;0
+697527;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+951653;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+40315;50000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+927122;45000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+418958;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Candido Pinto Caucaia do Alto;1;0;1;600;8;0;0;0;0
+530907;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+274510;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+767981;520000;Rua Zilda de Souza Rizzi; Jardim Interlagos;3;parking2;3;160;6;1;0;0;0
+771938;59990;Rua Miosótis; Usina;1;0;1;500;8;0;0;0;0
+347857;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+617622;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+932953;350000;Rua das Patativas; Imbuí;2;parking1;2;60;2;0;0;0;0
+103259;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+868691;415000;Rua das Juritis; Encantada;3;parking2;3;92;6;1;0;0;0
+900124;50000;Rua Sargento Acrísio Santana; Centro;1;0;1;600;8;0;0;0;0
+161284;60000;Rua José Prianti Sobrinho; Recantos dos Passaros I;1;0;1;600;6;0;0;0;0
+782273;50000;Avenida do Sol; Centro;1;0;1;1000;6;0;0;0;0
+213726;132000;Rua Tenente Waldir dos Santos; Farolândia;2;parking1;1;45;2;0;0;0;1
+879541;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+591303;3331000;Rua Capote Valente; Jardins;4;parking3;5;189;2;1;0;0;0
+706417;650000;Centro; Osasco;3;parking2;2;75;2;1;0;1;0
+917922;2590000;Jardim Paulista; São Paulo;3;parking1;2;150;6;0;0;0;0
+24129;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+453910;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Cemucam;1;0;1;600;8;0;0;0;0
+319316;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+446074;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+297799;60000;Praça Pedro de Toledo; Centro;1;0;1;500;8;0;0;0;0
+388429;35000;Centro; Santa Isabel;1;0;1;1000;8;0;0;0;0
+958288;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+505938;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+826069;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+810745;90000;Condomínio Residencial Parque Shambala; Recanto das Estrelas ;1;0;1;500;8;0;0;0;0
+263308;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+416193;555000;Rua Francisco Rabelo Leite Neto; Atalaia;3;parking2;3;98;2;1;0;0;1
+245838;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Jardim Araruama;1;0;1;600;8;0;0;0;0
+624299;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+562932;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+89101;60000;Estrada Nove de Julho; Vila Santista;1;0;1;500;8;0;0;0;0
+246736;280000;Avenida José Aloísio Filho; Humaitá;3;parking1;2;67;2;1;0;1;0
+290592;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+155624;0;Rua Paulo Afonso; Farolândia;3;parking2;3;107;2;1;0;0;0
+389533;180001;Avenida Guarany; Das Laranjeiras;2;parking1;1;67;2;1;0;1;0
+914961;60000;Rua Pitangueiras; Vila Santista;1;0;1;500;8;0;0;0;0
+569663;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+969821;60000;Praça Aprígio de Toledo; Centro;1;0;1;500;8;0;0;0;0
+77192;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+532180;60000;Rua José Prianti Sobrinho; Fazenda São Pedro;1;0;1;600;6;0;0;0;0
+406902;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;0;0;0
+382382;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+911654;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;6;0;0;0;0
+697929;60000;Praça Miguel Vairo; Centro;1;0;1;500;8;0;0;0;0
+141843;60000;Rua Miosótis; Usina;1;0;1;500;9;0;0;0;0
+704901;275000;Rua João Alves de Melo; Lagoa Nova;2;parking1;2;56;2;0;0;0;0
+205575;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+385024;170000;Rua Anna Maria Martins; Jardim Interlagos;1;0;1;320;8;0;0;0;0
+955457;50000;Rua João José Batista; Centro;1;0;1;600;6;0;0;0;0
+298495;169900;Avenida Antônio Cabral de Souza; Nossa Senhora da Conceição;2;parking1;1;46;9;0;0;0;0
+113721;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+843516;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Centreville;1;0;1;600;8;0;0;0;0
+281317;45000;Boa Vista; Igaratá;1;0;1;1000;8;0;0;0;0
+605602;140000;Rua Belo Horizonte II; Jardim Limoeiro;2;parking1;1;47;2;0;0;1;0
+853817;50000;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+246037;45000;Bosque Jaguari; Igaratá;1;0;1;1000;8;0;0;0;0
+940837;29900;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+991856;60000;Avenida Nove de Julho; Centro;1;0;1;500;2;0;0;0;0
+653334;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Altos de Caucaia;1;0;1;600;8;0;0;0;0
+723511;253407;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+276926;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+902832;70000;Avenida Antonio de Oliveira; Centro;1;0;1;1000;8;0;0;0;0
+657897;65000;Centro; Iranduba;1;0;1;2400;8;0;0;0;0
+257332;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+139742;149900;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+696678;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+417150;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+868806;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+51918;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+365270;60000;Rua Lamartine Fagundes; Vila Santista;1;0;1;500;8;0;0;0;0
+170754;50000;Rua XV de Novembro; Rio Abaixo;1;0;1;1000;6;0;0;0;0
+420403;30000;Rua Albino Rodrigues Neves; Center Ville;1;0;1;500;8;0;0;0;0
+177367;60000;Centro; Igaratá;1;0;1;600;8;0;0;0;0
+393582;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+521996;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+461200;60000;Rua Farroupilhas; Vila Santista;1;0;1;500;8;0;0;0;0
+894034;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+848514;348000;Rua Francisco Augusto Rocha; Planalto;3;parking2;2;82;2;1;0;0;0
+694198;60000;Rua Miosótis; Usina;1;0;1;500;9;0;0;0;0
+1117;595000;Rua Hil de Moraes; Edson Queiroz;2;parking2;2;70;9;0;0;0;0
+570960;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+948089;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0
+847021;90000;Estrada Municipal Shambala; Nirvana;1;0;1;500;8;0;0;0;0
+165515;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+580960;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;8;0;0;0;0
+749334;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+559931;29999;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+806350;0;Rua Alfredo Ramos; Centro;3;parking1;2;80;2;0;0;0;0
+141915;55000;Recanto das Águas; Igaratá;1;0;1;600;9;0;0;0;0
+645147;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+848314;90000;Rua Ênio de Abreu Camargo; Vale dos Pinheiros;1;0;1;500;9;0;0;0;0
+485099;399900;Rua Doutor José Maria; Encruzilhada;2;parking1;2;58;2;1;1;0;0
+711633;35000;Avenida Manoel Ferraz de Campos Sales; Ouro Fino;1;0;1;1000;8;0;0;0;0
+49632;55000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+694106;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;6;0;0;0;0
+251854;699000;Rua Joaquim Lima; Papicu;3;parking2;2;78;9;0;0;0;0
+997975;56000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+817669;420000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;6;0;1;0;0
+306323;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+687232;75000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+148177;60000;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+901038;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Pununduva;1;0;1;600;8;0;0;0;0
+445404;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+789103;30000;Rua Silvina de Camargo; Vila Lima;1;0;1;500;8;0;0;0;0
+747802;30000;Rua Albino Rodrigues Neves; Centro;1;0;1;500;8;0;0;0;0
+882071;175000;Rua Funilândia; Nossa Senhora da Conceição;2;parking1;1;48;5;0;0;0;0
+430029;49900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+324178;70000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;30;8;0;0;0;0
+976126;380000;Rua Francisco de Assis Delmondes Pereira Freitas; Ponto Novo;3;parking1;3;76;9;1;0;1;0
+435484;45000;Rua José Prianti Sobrinho; 415;1;0;1;1000;8;0;0;0;0
+487084;50000;Rua XV de Novembro; Rio Abaixo;1;0;1;1000;8;0;0;0;0
+474323;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+180132;1570000;Rua Justino Paixão; Jardim São Caetano;3;parking3;4;172;2;1;0;0;0
+314172;6900000;Largo da Pousada; Riviera de São Lourenço;5;parking3;4;205;2;1;0;1;0
+180112;1100000;Avenida Oceânica; Ondina;3;parking2;3;132;9;1;0;1;0
+897894;262000;Avenida Murilo Dantas; Farolândia;3;parking1;2;62;2;1;0;0;0
+745449;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Recanto Arco Verde;1;0;1;600;8;0;0;0;0
+921428;170000;Rua Anna Maria Martins; Jardim Interlagos;1;0;1;320;8;0;0;0;0
+662610;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+152579;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+201259;283000;Estrada Geraldo Costa Camargo; Loteamento Adventista Campineiro;2;parking1;2;53;2;1;0;0;0
+836185;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+547331;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;8;0;0;0;0
+573126;135000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+877659;219251;Rua General Artur Carvalho; Turu;2;parking1;2;49;9;0;0;0;0
+702675;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+200652;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Vila Sao Francisco de Assis;1;0;1;600;8;0;0;0;0
+132995;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+834692;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;6;0;0;0;0
+47958;60000;Rua Doutor Olímpio da Paixão; Centro;1;0;1;500;8;0;0;0;0
+650859;30000;Rua Washington Luiz Pereira de Souza; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+872644;650000;Rua Francisco Braúlio Filho; Jardim das Indústrias;3;parking2;4;134;9;1;0;1;0
+313887;219250;Rua General Artur Carvalho; Turu;2;parking1;2;49;9;0;0;0;0
+530666;550000;Rua Carmine Francesco Labanca; Condominio Villas do Golfe;1;0;1;503;5;0;0;0;0
+575298;50000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;600;8;0;0;0;0
+544806;379991;Rua do Pesque e Pague; Nova Abrantes Abrantes;2;parking2;2;70;6;1;0;0;0
+515586;55000;Avenida Professor Joaquim Barreto; Centro;1;0;1;600;8;0;0;0;0
+159689;0;Rua Capitão Fernando Machado; Vila Espanhola;3;parking3;4;409;6;1;0;0;1
+297185;320000;Rua Santo Amaro; Parque Senhor do Bonfim;2;parking2;2;130;2;0;0;1;0
+54220;245000;Estrada Dinorah; Loteamento Dinora Rosa;1;0;1;238;8;0;0;0;0
+529552;630000;Rua Engenheiro Antônio Gonçalves Soares; Luzia;2;parking1;2;105;2;1;1;0;1
+424718;580000;Zona Nova; Capão da Canoa;2;parking1;2;70;2;1;0;0;0
+823223;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+473086;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+101141;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+522083;202000;Rua Nelson Pereira Bueno; Vila São Francisco;2;parking1;1;42;2;0;0;0;0
+200614;208000;Rua Anagé; Colônia Terra Nova;2;parking1;1;41;6;0;0;0;0
+116080;169700;Avenida Rio das Pedras; Piracicamirim;2;parking1;1;46;2;0;0;0;0
+153717;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+278237;210300;Avenida São José dos Campos; Loteamento Parque São Martinho;2;parking1;1;49;2;0;0;0;0
+986099;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;0;0;0
+790339;2900000;Avenida Brigadeiro Luís Antônio; Jardim Paulista;10;parking4;4;174;6;0;0;0;0
+487327;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0
+816376;340000;Rua Aldo Focosi; Jardim Presidente Medici;3;parking1;2;85;2;1;0;0;0
+126686;210300;Avenida São José dos Campos; Loteamento Parque São Martinho;2;parking1;1;49;2;0;0;0;0
+156649;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+128133;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+469492;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+496013;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0
+172687;125000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+185992;90000;Estrada Municipal dos Morangueiros; San Fernando Valley;1;0;1;500;8;0;0;0;0
+292165;253410;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+936938;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;1;0;0
+641673;1050000;Praça Farias Neves; Tamarineira;3;parking3;4;108;2;1;0;0;0
+709419;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+135380;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+149932;450000;Rua Vicente Zírpoli; Caxangá;3;parking1;1;64;2;1;0;0;0
+37857;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+361991;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+821819;340000;Rua Irmão Félix Roberto; Humaitá;2;parking1;1;51;2;0;0;0;0
+335099;60000;Rua Pampulha; Vila Santista;1;0;1;500;8;0;0;0;0
+193142;0;Rua Engenheiro José Paes Esteves; Imirim;3;parking5;2;120;8;0;0;0;0
+856575;220000;Avenida Braúna; Colina de Laranjeiras;2;parking1;1;52;2;0;0;0;1
+894682;59900;Rua Oswaldo Cruz; Bela Vista;1;0;1;600;8;0;0;0;0
+444087;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+454389;560000;Rua Teresina; Parque Industrial;3;parking2;3;220;9;0;0;1;0
+550286;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+490992;495000;Rua Ribeiro da Costa; Novo Aleixo;3;parking2;3;130;7;0;0;0;0
+83373;54000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+785763;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+547168;550000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;6;1;0;0;0
+97085;375000;Avenida Brigadeiro Alberto Costa Matos; Centro;3;parking1;1;63;2;1;0;1;0
+259533;90000;Estrada Municipal dos Morangueiros; Pinheirinho;1;0;1;500;8;0;0;0;0
+99439;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Lajeado;1;0;1;600;8;0;0;0;0
+144372;183119;Jardim Parque Jupiá; Piracicaba;2;parking1;1;45;9;0;0;0;0
+754289;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+321028;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+452995;132000;Rua Tenente Waldir dos Santos; Farolândia;2;parking1;1;45;2;0;0;0;1
+525026;60000;Rua Doutor Oswaldo Urioste; Centro;1;0;1;500;8;0;0;0;0
+634129;60000;Rua Vila Rica; Vila Santista;1;0;1;500;8;0;0;0;0
+82566;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+250905;520000;Rua H; Aruana;3;parking3;2;150;6;1;0;1;0
+868076;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+357536;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+263378;1300000;Avenida Dona Carmela; Nova Gardenia;3;parking2;3;175;6;0;0;0;0
+676690;799000;Rua Bauru; Jardim do Lago;3;parking2;1;100;6;0;0;0;0
+35108;1980000;Avenida Fábio Ferraz Bicudo; Jardim Residencial Dona Maria Jose;3;parking4;5;214;6;0;0;0;0
+380891;60000;Estrada Morumbi; Vila Santista;1;0;1;500;8;0;0;0;0
+261188;1489995;Rua Aviador Severiano Lins; Boa Viagem;4;parking2;6;138;2;1;0;0;0
+437395;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+473368;59900;Rua José Alvim; Cerejeiras III Glebas;1;0;1;600;8;0;0;0;0
+384592;60000;Praça Pedro de Toledo; Centro;1;0;1;500;8;0;0;0;0
+104075;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+346340;60000;Rua Maria Cecília Teixeira Pinto; Usina;1;0;1;500;8;0;0;0;0
+263640;34999;Centro; Igaratá;1;0;1;600;6;0;0;0;0
+798302;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+894188;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+248473;60000;Praça Três Poderes; Usina;1;0;1;500;8;0;0;0;0
+245943;50000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+810117;233700;Rua Francisco Fadim; Morumbi;2;parking1;1;49;2;0;0;0;0
+407952;320000;Passagem Cosme e Damião; Coqueiro;6;parking2;3;300;2;0;0;0;0
+875093;66000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+797579;0;Avenida Vice-Presidente José Alencar; Barra da Tijuca;3;parking2;2;98;2;1;0;0;0
+346090;1770000;Avenida Raimundo Pereira de Magalhães; Vila Anastácio;3;parking2;5;135;2;1;0;0;0
+886299;760000;Rua Barão de Mesquita; Tijuca;2;parking1;2;80;2;0;0;0;0
+792584;206500;Rua General Artur Carvalho; Turu;2;parking1;1;49;2;0;0;0;0
+927058;296700;Rua Santa Rita do Passa Quatro; Jardim Nova Europa;2;parking1;2;52;2;1;0;0;0
+170163;175000;Rua Funilândia; Nossa Senhora da Conceição;2;parking1;1;48;5;0;0;0;0
+421123;30000;Avenida dos Expedicionários; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+68366;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+223017;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+131823;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Jardim Araruama;1;0;1;600;8;0;0;0;0
+203220;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+167920;66000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+186257;30000;Rua Habib Tanuri; Center Ville;1;0;1;500;8;0;0;0;0
+435166;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0
+141291;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+362488;60000;Avenida Industrial Walter Kloth; Usina;1;0;1;500;8;0;0;0;0
+373429;60000;Rua José Prianti Sobrinho; Bosque do Jaguari;1;0;1;600;6;0;0;0;0
+134463;50000;Rua XV de Novembro; Rio Acima;1;0;1;1000;8;0;0;0;0
+49339;60000;Rua Lourenço Franco; Centro;1;0;1;500;8;0;0;0;0
+603730;51000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+955584;262000;Avenida Murilo Dantas; Farolândia;3;parking1;2;62;2;1;0;0;0
+315943;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Recanto Arco Verde;1;0;1;600;8;0;0;0;0
+824013;250000;Rua José Prianti Sobrinho; Parque Alpina;1;0;1;500;9;0;0;0;0
+750731;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+976633;178350;Forquilha; São José de Ribamar;2;parking1;2;50;9;0;0;0;0
+468219;60000;Rua José Prianti Sobrinho; Almeida Prado;1;0;1;600;8;0;0;0;0
+387475;135000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+646749;219251;Rua General Artur Carvalho; Turu;2;parking1;2;49;9;0;0;0;0
+695303;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+489678;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Vila Sao Francisco de Assis;1;0;1;600;8;0;0;0;0
+330636;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+249884;30000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;500;8;0;0;0;0
+205474;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;6;0;0;0;0
+79525;60000;Rua Doutor Olímpio da Paixão; Centro;1;0;1;500;8;0;0;0;0
+167426;30000;Rua Washington Luiz Pereira de Souza; Vila Flora Regina;1;0;1;500;8;0;0;0;0
+3948;650000;Rua Francisco Braúlio Filho; Jardim das Indústrias;3;parking2;4;134;9;1;0;1;0
+584974;70000;Avenida da Saudade; Centro;1;0;1;500;8;0;0;0;0
+622850;219250;Rua General Artur Carvalho; Turu;2;parking1;2;49;9;0;0;0;0
+185532;50000;Avenida Manoel Ferraz de Campos Sales; Centro;1;0;1;600;8;0;0;0;0
+465178;379991;Rua do Pesque e Pague; Nova Abrantes Abrantes;2;parking2;2;70;6;1;0;0;0
+467563;55000;Avenida Professor Joaquim Barreto; Centro;1;0;1;600;8;0;0;0;0
+579917;0;Rua Capitão Fernando Machado; Vila Espanhola;3;parking3;4;409;6;1;0;0;1
+630709;30000;Área Rural; Area Rural de Aruja;1;0;1;500;8;0;0;0;0
+493736;245000;Estrada Dinorah; Loteamento Dinora Rosa;1;0;1;238;8;0;0;0;0
+64382;580000;Zona Nova; Capão da Canoa;2;parking1;2;70;2;1;0;0;0
+66033;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+979409;75000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+428672;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+290610;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0
+250203;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+670184;202000;Rua Nelson Pereira Bueno; Vila São Francisco;2;parking1;1;42;2;0;0;0;0
+99961;208000;Rua Anagé; Colônia Terra Nova;2;parking1;1;41;6;0;0;0;0
+283838;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;0;0;0
+895829;235000;Rua José Miguel Ackel; Jardim Guilhermino;2;parking1;1;48;2;0;0;0;0
+170655;30000;Avenida Antonio Afonso de Lima; Centro;1;0;1;500;8;0;0;0;0
+770506;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;9;0;0;0;0
+892615;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+685465;60000;Rua José Prianti Sobrinho; Recanto das Águas;1;0;1;600;8;0;0;0;0
+358596;125000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+291494;190000;Estrada Municipal Martins Guimarães; Vila Tesouro;2;parking1;1;45;2;0;0;0;0
+260344;90000;Estrada Municipal dos Morangueiros; San Fernando Valley;1;0;1;500;8;0;0;0;0
+146038;253410;Araçagy; São José de Ribamar;2;parking1;2;57;9;0;0;0;0
+777185;210000;Centro; Barra dos Coqueiros;2;parking1;2;60;2;1;1;0;0
+727132;1050000;Praça Farias Neves; Tamarineira;3;parking3;4;108;2;1;0;0;0
+860317;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+320553;25000;Boa Vista; Igaratá;1;0;1;500;8;0;0;0;0
+666854;450000;Rua Vicente Zírpoli; Caxangá;3;parking1;1;64;2;1;0;0;0
+855871;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+58663;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+951352;340000;Rua Irmão Félix Roberto; Humaitá;2;parking1;1;51;2;0;0;0;0
+863818;60000;Rua Pampulha; Vila Santista;1;0;1;500;8;0;0;0;0
+576883;0;Rua Engenheiro José Paes Esteves; Imirim;3;parking5;2;120;8;0;0;0;0
+40729;220000;Avenida Braúna; Colina de Laranjeiras;2;parking1;1;52;2;0;0;0;1
+645332;59900;Rua Oswaldo Cruz; Bela Vista;1;0;1;600;8;0;0;0;0
+95515;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+605914;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+144653;560000;Rua Teresina; Parque Industrial;3;parking2;3;220;9;0;0;1;0
+976161;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+867649;495000;Rua Ribeiro da Costa; Novo Aleixo;3;parking2;3;130;7;0;0;0;0
+491045;54000;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+660531;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+220320;206500;Rua General Artur Carvalho; Turu;2;parking1;1;49;2;0;0;0;0
+55148;550000;Rua Dom Diogo de Souza; Parque Dez de Novembro;3;parking2;2;90;6;1;0;0;0
+737964;90000;Estrada Municipal dos Morangueiros; Pinheirinho;1;0;1;500;8;0;0;0;0
+694601;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Lajeado;1;0;1;600;8;0;0;0;0
+15396;75000;Centro; Nazaré Paulista;1;0;1;890;8;0;0;0;0
+828213;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+815112;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+925789;132000;Rua Tenente Waldir dos Santos; Farolândia;2;parking1;1;45;2;0;0;0;1
+953582;60000;Rua Doutor Oswaldo Urioste; Centro;1;0;1;500;8;0;0;0;0
+500818;75000;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;890;8;0;0;0;0
+367480;60000;Rua Vila Rica; Vila Santista;1;0;1;500;8;0;0;0;0
+389941;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+980106;520000;Rua H; Aruana;3;parking3;2;150;6;1;0;1;0
+718448;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+702031;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+980360;1300000;Avenida Dona Carmela; Nova Gardenia;3;parking2;3;175;6;0;0;0;0
+87964;799000;Rua Bauru; Jardim do Lago;3;parking2;1;100;6;0;0;0;0
+872724;1980000;Avenida Fábio Ferraz Bicudo; Jardim Residencial Dona Maria Jose;3;parking4;5;214;6;0;0;0;0
+272021;60000;Estrada Morumbi; Vila Santista;1;0;1;500;8;0;0;0;0
+520707;785000;Rodovia Amaro Antônio Vieira; Itacorubi;3;parking1;2;74;9;0;0;0;0
+13363;650000;Avenida Genaro de Carvalho; Recreio Dos Bandeirantes;3;parking2;4;116;2;0;0;0;1
+300788;3200000;Rua Vicente Guimarães; Belvedere;3;parking4;2;230;2;0;0;0;0
+710191;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+265970;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+324910;60000;Estrada Morumbi; Vila Santista;1;0;1;500;8;0;0;0;0
+593185;1489995;Rua Aviador Severiano Lins; Boa Viagem;4;parking2;6;138;2;1;0;0;0
+52021;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+628972;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+97855;59900;Rua José Alvim; Cerejeiras III Glebas;1;0;1;600;8;0;0;0;0
+849541;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+18096;60000;Praça Pedro de Toledo; Centro;1;0;1;500;8;0;0;0;0
+762289;60000;Rua Maria Cecília Teixeira Pinto; Usina;1;0;1;500;8;0;0;0;0
+392056;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+601057;45000;Rua Aeroporto; Jardim Lavapes das Graças;1;0;1;500;8;0;0;0;0
+417312;34999;Centro; Igaratá;1;0;1;600;6;0;0;0;0
+762232;59900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+451317;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+1369;60000;Praça Três Poderes; Usina;1;0;1;500;8;0;0;0;0
+137421;66000;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+358178;29990;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+278008;60000;Rua Tristão de Athayde; Vila Santista;1;0;1;500;8;0;0;0;0
+364918;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+212865;55050;Verava; Ibiúna;1;0;1;1000;8;0;0;0;0
+788245;59900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+285919;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+536665;30000;Rua João de Lima; Arujamérica;1;0;1;500;8;0;0;0;0
+724190;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+758554;440000;Rua Rio Azul; Boa Viagem;2;parking1;2;51;2;1;0;0;0
+114894;49900;Rua João José Batista; Centro;1;0;1;600;8;0;0;0;0
+462780;30000;Avenida P.L. do Brasil; Centro;1;0;1;500;8;0;0;0;0
+162440;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+728217;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+328411;30000;Rua Aires Monteiro; Center Ville;1;0;1;500;8;0;0;0;0
+242697;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+24907;49900;Rua João José Batista; Laspalma;1;0;1;600;8;0;0;0;0
+272238;896100;Praia dos Carneiros; Tamandare;3;parking1;1;87;5;0;0;0;0
+212653;45000;Rodovia Dom Pedro I; Recanto das Águas;1;0;1;1000;8;0;0;0;0
+253822;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+806675;425000;Rua Jacob Carlos Hoffman; Jardim Monte Santo;2;parking5;3;143;6;1;0;0;0
+528885;365000;Rua Solidônio Leite; Vila Ema;3;parking1;1;80;2;1;0;0;0
+364260;579000;Rua Gonzaga Franco; Vila Guiomar;3;parking2;2;103;2;1;0;0;0
+606077;235000;Rua Demerval da Fonseca; Jardim Santa Terezinha;2;parking1;1;50;2;0;0;0;0
+895754;60000;Avenida Antônio Mathias de Camargo; Cachoeira;1;0;1;600;9;0;0;0;0
+334022;30000;Avenida João Manoel; Centro;1;0;1;500;8;0;0;0;0
+371965;60000;Praça Miguel Vairo; Usina;1;0;1;500;8;0;0;0;0
+159197;30000;Avenida dos Expedicionários; Jardim Rincão;1;0;1;500;8;0;0;0;0
+55667;30000;Avenida Marechal Castelo Branco; Jardim Rincão;1;0;1;500;8;0;0;0;0
+740624;60000;Rua Doutor Oswaldo Urioste; Centro;1;0;1;500;8;0;0;0;0
+858379;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+806125;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+621521;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+839725;210000;Avenida Antônio Cabral de Souza; Nossa Senhora da Conceição;3;parking1;1;61;5;0;0;0;0
+190650;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+605905;60000;Estrada Municipal dos Morangueiros; Centro;1;0;1;500;8;0;0;0;0
+436499;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+438729;896100;Praia dos Carneiros; Tamandare;3;parking1;1;87;5;0;0;0;0
+159005;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+422160;55000;Rua L; Quadra 12;1;0;1;1000;8;0;0;0;0
+176705;30000;Estrada do Kondo; Pedreira;1;0;1;500;8;0;0;0;0
+340317;49900;Rua José Alvim; Condominio Dom Pedro;1;0;1;600;8;0;0;0;0
+604788;60000;Rua José Prianti Sobrinho; Rosa Helena;1;0;1;600;6;0;0;0;0
+24128;60000;Estrada Vicinal Municipal Ivo Mário Isaac Pires; Agua Espraiada;1;0;1;600;8;0;0;0;0
+664681;30000;Rua Sergio Saleh Riman; Center Ville;1;0;1;500;8;0;0;0;0
+795782;55000;Rua L; Quadra 12;1;0;1;1000;8;0;0;0;0
+132321;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;8;0;0;0;0
+38058;80000;Rua José Prianti Sobrinho; Centro;1;0;1;1000;9;0;0;0;0
+978664;30000;Rua Major Benjamin Franco; Centro;1;0;1;500;8;0;0;0;0
+233962;34999;Centro; Igaratá;1;0;1;600;6;0;0;0;0
+861914;30000;Rodovia Vereador Albino Rodrigues Neves; Pedreira;1;0;1;500;8;0;0;0;0
+6003;348001;Travessa Santa Lúcia; Candeias;2;parking1;1;58;2;1;0;0;0
+347102;465500;Avenida Atílio Pedro Pagani; Pagani;2;parking1;2;73;2;1;0;0;0
+776191;190000;Avenida Frederico Baird; Ponta Negra;1;0;1;250;6;0;0;0;0
+140169;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+646774;150000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+898567;49900;Rua José Prianti Sobrinho; Centro;1;0;1;600;8;0;0;0;0
+954756;33000000;Avenida Guapira; Tucuruvi;1;parking25;1;8813;9;0;0;0;0
+338342;250000;Avenida José Prianti Sobrinho; Centro;1;0;1;500;8;0;0;0;0
+961415;59900;Rua José Alvim; Centro;1;0;1;600;8;0;0;0;0
+855207;0;Rua Doutor Carlos Chagas Filho; Jardim Botânico;2;parking1;2;71;2;1;0;0;0
+358676;348002;Travessa Santa Lúcia; Candeias;2;parking1;1;58;2;1;0;0;0
+832934;49900;Avenida Comendador Vicente de Paula Penido; Centro;1;0;1;600;9;0;0;0;0
+981777;69999;Avenida Professor Joaquim Barreto; Cachoeira;1;0;1;1000;8;0;0;0;0
+65363;200000;Rua João Mobíglia; Jardim Manoel Penna;2;parking1;1;49;2;0;0;0;0
+633923;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+823869;60000;Praça Três Poderes; Centro;1;0;1;500;8;0;0;0;0
+66067;45000;Rodovia Dom Pedro I; Boa Vista;1;0;1;1000;8;0;0;0;0
+974118;60000;Estrada Municipal da Pedra Grande; Laranja Azeda;1;0;1;500;8;0;0;0;0
+460376;262000;Avenida Murilo Dantas; Farolândia;3;parking1;2;62;2;1;0;0;0
+198350;45000;Bosque do Jaguari; Igaratá;1;0;1;1000;8;0;0;0;0
+889056;59900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+111724;49900;Rua Coronel Fagundes; Centro;1;0;1;600;8;0;0;0;0
+70770;229900;Rua Luciana Von Zuben Corvini; Parque das Cachoeiras;2;parking1;1;47;2;0;0;0;0
+943491;385000;Centro; Eusébio;3;0;2;106;9;1;0;0;0
+887738;262000;Avenida Murilo Dantas; Farolândia;3;parking1;2;62;2;1;0;0;1
+752909;132000;Rua Tenente Waldir dos Santos; Farolândia;2;parking1;1;45;2;0;0;0;0
+495589;90000;Recanto das Águas; Igaratá;1;0;1;1000;8;0;0;0;0
+990538;60000;Praça Três Poderes; Centro;1;0;1;500;8;0;0;0;0
+158778;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
+468850;55000;Rua Osvaldo Cruz; Centro;1;0;1;1000;8;0;0;0;0
