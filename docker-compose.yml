@@ -2,11 +2,12 @@ version: '3.9'
 
 services:
   imobiliaria_db:
-    image: postgres:latest
+    image: mysql
     container_name: imobiliaria_db
     environment:
-      POSTGRES_USER: imobiliaria
-      POSTGRES_PASSWORD: imobiliaria
-      POSTGRES_DB: imobiliaria
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=imobiliaria
+      - MYSQL_USER=imobiliaria
+      - MYSQL_PASSWORD=imobiliaria
     ports:
-      - 5432:5432
+      - 3306:3306
