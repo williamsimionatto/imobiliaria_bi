@@ -1,37 +1,33 @@
-# import psycopg2
+import mysql.connector
 # import pandas as pd
 
 from dotenv import dotenv_values
 
 config = dotenv_values(".env")
 
-print(config)
+def connect():
+  conn = mysql.connector.connect(
+    host=config['HOST'],
+    user=config['MYSQL_USER'],
+    password=config['MYSQL_PASSWORD'],
+    database=config['MYSQL_DATABASE']
+  )
 
-# def connect():
-#     conn = psycopg2.connect(
-#         host="localhost",
-#         database="postgres",
-#         user="imobiliaria",
-#         password="imobiliaria",
-#         port="5432"
-#     )
+  return conn
 
-#     return conn
+def close(conn):
+  conn.close()
 
-# def close(conn):
-#     conn.close()
-
-# def insert(con, sql):
-#   cur = con.cursor()
-
-#   try:
-#     cur.execute(sql)
-#     con.commit()
-#   except (Exception, psycopg2.DatabaseError) as error:
-#     print("Error: %s" % error)
-#     con.rollback()
-#     cur.close()
-#     return 1
-
-#   cur.close()
+def insert(conn, sql):
+  cursor = conn.cursor()
+  try:
+    cursor.execute(sql)
+    conn.commit()
+    cursor.close()
+  except Exception as e:
+    print(sql)
+    print('Error: {}'.format(e))
+    conn.rollback()
+  finally:
+    cursor.close()
 

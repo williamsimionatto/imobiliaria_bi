@@ -31,10 +31,16 @@ def insert_properties(conn):
   dataset = pd.read_csv('./data/dataset.csv', sep=';')
 
   for index, row in dataset.iterrows():
-    lat = row['lat'] if pd.notnull(row['lat']) else 0
-    long = row['long'] if pd.notnull(row['long']) else 0
+    if pd.isnull(row['address']):
+      row['address'] = ''
 
-    sql = "INSERT INTO real_estate (price, address, neighborhood_city, rooms, garage, bathroom, square_meter, type_id, suite, gym, balcony, hall, transaction_type, lat, long) VALUES ({}, '{}', '{}', {}, {}, {}, {}, {}, {}, {}, {}, {}, '{}', {}, {})".format(
+    if pd.isnull(row['neighborhood/city']):
+      row['neighborhood/city'] = ''
+  
+    row['address'] = row['address'].replace("'", "")
+    row['neighborhood/city'] = row['neighborhood/city'].replace("'", "")
+
+    sql = "INSERT IGNORE INTO real_estate (price, address, neighborhood_city, rooms, garage, bathroom, square_meter, type_id, suite, gym, balcony, hall, transaction_type) VALUES ({}, '{}', '{}', {}, {}, {}, {}, {}, {}, {}, {}, {}, '{}')".format(
         row['price'],
         row['address'],
         row['neighborhood/city'],
@@ -47,9 +53,7 @@ def insert_properties(conn):
         bool(row['gym']),
         bool(row['balcony']),
         bool(row['hall']),
-        str(row['transaction_type']),
-        float(lat),
-        float(long)
+        str(row['transaction_type'])
       )
 
     db.insert(conn, sql)
@@ -63,6 +67,6 @@ def save_data():
   db.close(conn)
 
 
-# transform_data()
+transform_data()
 
 save_data()
