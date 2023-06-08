@@ -27,5 +27,28 @@ python3 extract.py
 python3 transform.py
 ```
 
+# Dashboards
+Depois de realizar a extração e transformação dos dados, é possível visualizar os dados em dashboards, construídos com a ferramenta [Power BI](https://powerbi.microsoft.com/pt-br/). Os dashboards estão disponíveis no arquivo `imobiliaria.pbix`.
+
+## Dashboard 1
+
+* Mapa com a localização dos imóveis, bem como o seu tipo.
+* Filtragem pelo tipo da transação [Venda, Aluguel].
+
+![Maps](./imgs/map.png)
+
+## Dashboard 2
+* Gráfico de barras com a média do preço dos imóveis pelo tipo.
+* Gráfico de dispersão com a relação entre o número de quartos e a média de banheiros.
+* Card com o total de imóveis.
+* Card com o preço médio dos imóveis.
+* Card com o preço médio dos imóveis por metro quadrado.
+* Card com a média de quartos.
+* Filtragem por Cidade.
+* Filtragem por Tipo de Transação [Venda, Aluguel].
+* Filtragem por tipo do imóvel.
+
+![Charts](./imgs/charts.png)
+
 #
 > Repositório do trabalho final da disciplina de  Business Intelligence UPF 2023/1.
