@@ -50,5 +50,21 @@ Depois de realizar a extração e transformação dos dados, é possível visual
 
 ![Charts](./imgs/charts.png)
 
+# Sobre o trabalho
+Business Intelligence (BI) é um processo que envolve a coleta, organização, análise e apresentação de informações relevantes para auxiliar na tomada de decisões de uma organização. O objetivo do BI é transformar dados brutos em insights acionáveis, fornecendo uma visão abrangente do desempenho, tendências e padrões de negócios.
+
+## Para realizar o trabalho, algumas etapas foram realizadas:
+
+* Planejamento: Definição dos objetivos do projeto, identificação dos dados necessários e das fontes de coleta, escolha das técnicas de web scraping adequadas, seleção das ferramentas a serem utilizadas (por exemplo, linguagens de programação, bibliotecas, etc.), definição dos critérios de limpeza e transformação dos dados, e planejamento da estrutura do banco de dados e dos dashboards a serem criados.
+
+* Captação dos dados: Utilização de técnicas de web scraping para extrair os dados das imobiliárias. Isso pode envolver a automatização de acesso aos sites, a identificação dos elementos relevantes a serem extraídos e a estruturação dos dados coletados em um formato adequado.
+
+* Preparação dos dados: Após a coleta dos dados, é necessário realizar um tratamento para garantir a qualidade e a consistência das informações. Isso inclui a limpeza dos dados (remoção de valores duplicados, ausentes ou inconsistentes), a padronização das informações (por exemplo, transformação de datas em um formato uniforme) e a organização dos dados em uma estrutura adequada para o armazenamento e análise posterior.
+
+* Geração do dashboard: Utilização do Power BI para criar um ou mais dashboards que apresentem os dados de forma visual e interativa. Isso pode envolver a criação de gráficos, tabelas, filtros e outros elementos visuais para facilitar a compreensão e a exploração dos dados pelos gestores.
+
+## Conslusão
+Ao final do trabalho, é esperado que os dashboards desenvolvidos auxiliem os gestores estratégicos das imobiliárias a tomarem decisões mais assertivas. Através da identificação de tendências e padrões de imóveis.
+
 #
 > Repositório do trabalho final da disciplina de  Business Intelligence UPF 2023/1.
