@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 import pandas as pd
 import re
